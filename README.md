@@ -1,47 +1,318 @@
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                     HERO — ANIMATED BANNER                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=SHIWANK+GUPTA;VLSI+Design+Engineer;RTL+%E2%86%92+Synthesis+%E2%86%92+STA+%E2%86%92+Tapeout;61.7%25+Dynamic+Power+Reduction+%40+45nm+CMOS;Design+Verification+%7C+Physical+Design+%7C+FPGA)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1220,50:06101a,75:080e1c,100:0d1117&height=240&section=header&text=SHIWANK%20GUPTA&fontSize=62&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=VLSI%20Design%20Engineer%20%20·%20%20RTL%20%26%20Verification%20%20·%20%20Low-Power%20CMOS%20%20·%20%20FPGA%20%26%20ASIC&descSize=13&descColor=4a9eba&descAlignY=62&descAlign=50&animation=fadeIn"/>
 
 </div>
 
----
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      TYPING ANIMATION                                -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=820&height=34&lines=VLSI+Design+Engineer+%7C+RTL+%E2%86%92+Synthesis+%E2%86%92+STA+%E2%86%92+Tapeout;61.7%25+Dynamic+Power+Reduction+%40+45+nm+CMOS+%7C+Published+Research;7-Day+AMBA+Protocol+Sprint+%E2%80%94+AXI4-Lite+%7C+ACTIVE;Design+Verification+%7C+STA+%7C+Timing+Closure+%7C+DRC%2FLVS;Low-Power+CMOS+%7C+Clock+Gating+(ICG)+%7C+NTV+Design;Gold+Medalist+%7C+Lean+Six+Sigma+AI+YB+%7C+Global+Relocation+Ready" alt="Typing SVG"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                   SOCIAL LINKS + VISITOR COUNTER                     -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="mailto:gupta.shiwank09@gmail.com">
+  <img src="https://img.shields.io/badge/─%20EMAIL-gupta.shiwank09%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22&color=0d1117"/>
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/guptashiwank/">
+  <img src="https://img.shields.io/badge/─%20LINKEDIN-guptashiwank-0d1117?style=flat-square&logo=linkedin&logoColor=00e5ff&labelColor=161b22&color=0d1117"/>
+</a>
+&ensp;
+<a href="https://github.com/SHIWANK72">
+  <img src="https://img.shields.io/badge/─%20GITHUB-SHIWANK72-0d1117?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=161b22&color=0d1117"/>
+</a>
+&ensp;
+<img src="https://komarev.com/ghpvc/?username=SHIWANK72&style=flat-square&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED DIVIDER                                  -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  ENGINEERING IDENTITY CARD                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                 │
 │   ◈  ENGINEER          Shiwank Gupta                                            │
-│   ◈  DISCIPLINE        VLSI Design · Design Verification · Physical Design     │
-│   ◈  SPECIALIZATION    Low-Power CMOS · RTL Engineering · Digital ASIC Flow   │
-│   ◈  ACADEMIC          B.Tech — ECE · UIET, Kurukshetra University             │
-│                         CGPA: 7.11/10                                           │
+│   ◈  DISCIPLINE        VLSI Design · Design Verification · Low-Power CMOS      │
+│   ◈  SPECIALIZATION    RTL Engineering · Digital ASIC Flow · FPGA Development  │
+│   ◈  ACADEMIC          B.Tech — Electronics & Communication Engineering         │
+│                         UIET, Kurukshetra University | CGPA: 7.11/10           │
 │   ◈  DIPLOMA           Electrical Engineering — Gold Medalist | CGPA: 8.5/10  │
 │                                                                                 │
 │   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
 │                                                                                 │
-│   PRESENT  ▸  Clock Gating · SRAM · RISC Processor · 14-Day RTL-to-DV Series  │
-│   VECTOR   ▸  Design Verification · STA · Timing Closure · Functional Sim      │
-│   FRONTIER ▸  Physical Design · UVM · ASIC Tapeout · Global Semiconductor     │
+│   PRESENT  ▸  7-Day AMBA Sprint · 14-Day RTL-to-DV · NIK-CORE RISC            │
+│   VECTOR   ▸  Design Verification · STA · Timing Closure · Physical Design     │
+│   FRONTIER ▸  UVM · ASIC Tapeout · Global Semiconductor R&D                   │
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
 
-## // 01 &nbsp; Connect
+<br/>
 
-[![Gmail](https://img.shields.io/badge/EMAIL-gupta.shiwank09%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22&color=30363d)](mailto:gupta.shiwank09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-guptashiwank-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22&color=30363d)](https://linkedin.com/in/guptashiwank)
-[![GitHub](https://img.shields.io/badge/GITHUB-SHIWANK72-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=161b22&color=30363d)](https://github.com/SHIWANK72)
-[![Location](https://img.shields.io/badge/LOCATION-Panchkula%2C%20Haryana-0d1117?style=flat-square&labelColor=161b22&color=30363d)](https://maps.google.com)
-![Open To](https://img.shields.io/badge/OPEN%20TO-Global%20Relocation-00e5ff?style=flat-square&labelColor=161b22)
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                    ENGINEERING DOMAINS                               -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
----
+## `// 01` &nbsp; Engineering Domains
 
-## // 02 &nbsp; Research Highlights
+<br/>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**`VLSI / ASIC DESIGN`**
+
+```yaml
+RTL Design:
+  - Verilog / SystemVerilog
+  - Digital ASIC Flow
+  - Logic Synthesis
+  - Clock Tree Synthesis
+
+Analysis:
+  - STA / Timing Closure
+  - Power Analysis (PX)
+  - DRC / LVS
+  - Parasitic Extraction
+
+Memory:
+  - 6T SRAM (Full-Custom)
+  - SNM Characterization
+  - Multi-Corner SPICE
+  - BSIM4 Modeling
+```
+
+</td>
+<td width="25%" valign="top">
+
+**`DESIGN VERIFICATION`**
+
+```yaml
+Functional Sim:
+  - Testbench Development
+  - Self-Checking TB
+  - Directed Stress Testing
+  - Multi-Corner Corners
+
+Protocols:
+  - AMBA AXI4-Lite
+  - AHB / APB
+  - UART / SPI / I2C
+  - CAN Bus
+
+Frontier:
+  - SystemVerilog DV
+  - UVM Methodology
+  - Functional Coverage
+  - Assertion-Based DV
+```
+
+</td>
+<td width="25%" valign="top">
+
+**`LOW-POWER CMOS`**
+
+```yaml
+Clock Management:
+  - Static ICG Gating
+  - Dynamic Gating
+  - Hybrid ICG Schemes
+  - CTS Power Opt.
+
+Power Techniques:
+  - Power Gating
+  - Multi-VTH Design
+  - Dynamic Power Opt.
+  - Static Power Opt.
+
+NTV Research:
+  - Near-Threshold Voltage
+  - 28 nm HKMG Analysis
+  - 65 nm Bulk CMOS
+  - PDP Benchmarking
+```
+
+</td>
+<td width="25%" valign="top">
+
+**`PHYSICAL DESIGN — FRONTIER`**
+
+```yaml
+PnR Flow:
+  - Floorplanning
+  - Placement & Routing
+  - Timing Signoff
+  - Power Grid Design
+
+FPGA:
+  - Xilinx Vivado
+  - Synthesis → Bitstream
+  - Hardware Validation
+  - Artix-7 / Cyclone V
+
+I/O Design:
+  - High-Speed Pad Design
+  - ESD Protection
+  - Signal Integrity
+  - Cadence Virtuoso
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      TECHNICAL STACK                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 02` &nbsp; Technical Stack
+
+<br/>
+
+<div align="center">
+
+**─── EDA & Simulation Platforms ───**
+
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-FF6600?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Synopsys_VCS-AA0000?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PrimeTime_PX-880000?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Xilinx_Vivado-FF0000?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ModelSim-0057B8?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LTSpice-7B0000?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+**─── HDL & Programming ───**
+
+<img src="https://img.shields.io/badge/Verilog-001a26?style=for-the-badge&logoColor=00e5ff&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SystemVerilog-001a26?style=for-the-badge&logoColor=00e5ff&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SPICE_BSIM4-001a26?style=for-the-badge&logoColor=00e5ff&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+<br/><br/>
+
+**─── FPGA & Hardware Platforms ───**
+
+<img src="https://img.shields.io/badge/Xilinx_Artix--7-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Cyclone_V_FPGA-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+
+<br/><br/>
+
+**─── Protocols & Interfaces ───**
+
+<img src="https://img.shields.io/badge/AMBA_AXI4--Lite-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AHB_/_APB-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/UART-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SPI-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/I2C-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CAN_Bus-161b22?style=for-the-badge&labelColor=161b22"/>
+
+<br/><br/>
+
+**─── Frontier — Active Study ───**
+
+<img src="https://img.shields.io/badge/▷%20UVM%20Methodology-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/▷%20Physical%20Design%20PnR-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/▷%20AMBA%20Protocol%20Suite-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/▷%20Formal%20Verification-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--               QUANTIFIED RESEARCH RESULTS                            -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 03` &nbsp; Quantified Research Results
+
+<br/>
+
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                       QUANTIFIED RESEARCH RESULTS                            ║
+║                       PUBLISHED RESEARCH METRICS                             ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                               ║
 ║  CLOCK GATING RESEARCH — 45 nm CMOS @ 200 MHz                                ║
@@ -50,172 +321,688 @@
 ║  └─ Reduction Achieved        :  61.7%  ◀── PUBLISHED RESULT                 ║
 ║                                                                               ║
 ║  FLIP-FLOP ARCHITECTURE STUDY — 28 nm HKMG + 65 nm Bulk CMOS (NTV)          ║
-║  ├─ Architectures Benchmarked :  4 (including ATC-SCDFF)                    ║
+║  ├─ Architectures Benchmarked :  4  (Standard, TGFF, MHLAFF, ATC-SCDFF)    ║
 ║  ├─ Best Power-Delay Product  :  0.32 fJ  (ATC-SCDFF)                       ║
-║  └─ PDP Improvement           :  69%  over baseline ◀── PUBLISHED RESULT     ║
+║  └─ PDP Improvement           :  69%  over baseline  ◀── PUBLISHED RESULT    ║
 ║                                                                               ║
-║  6T SRAM CELL — SPICE Characterization (BSIM4)                               ║
+║  6T SRAM CELL — Full-Custom SPICE Characterization (BSIM4)                   ║
 ║  ├─ Static Noise Margin (SNM) :  92–108 mV                                  ║
 ║  ├─ Corners Tested            :  TT / SS / FF / SNFP / FNSP                 ║
-║  └─ Method                    :  Butterfly Curve + Transistor Sizing         ║
+║  └─ Method                    :  Butterfly Curve + Systematic Transistor Sizing║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-## // 03 &nbsp; Technical Domains
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--               ENGINEERING COMPETENCIES DASHBOARD                     -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 04` &nbsp; Engineering Competencies
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**VLSI / ASIC Design**
+
+| Competency | Proficiency |
+|---|---|
+| RTL Design (Verilog) | `██████████` Production |
+| Clock Gating (ICG) | `█████████░` Strong |
+| Low-Power CMOS Analysis | `█████████░` Strong |
+| SPICE / Circuit Sim | `████████░░` Solid |
+| FPGA Implementation | `████████░░` Solid |
+| Logic Synthesis | `███████░░░` Growing |
+| Cadence Virtuoso | `██████░░░░` Developing |
+
+</td>
+<td width="33%" valign="top">
+
+**Design Verification**
+
+| Competency | Proficiency |
+|---|---|
+| Functional Testbench | `████████░░` Solid |
+| Multi-Corner Simulation | `███████░░░` Growing |
+| STA / Timing Closure | `███████░░░` Growing |
+| DRC / LVS | `██████░░░░` Developing |
+| SystemVerilog DV | `██████░░░░` Active Study |
+| UVM Methodology | `████░░░░░░` Frontier |
+
+</td>
+<td width="33%" valign="top">
+
+**Physical Design — Frontier**
+
+| Domain | Status |
+|---|---|
+| AMBA Protocol (AXI4) | `████████░░` Active Sprint |
+| Post-Layout Simulation | `██████░░░░` Developing |
+| Floorplanning / P&R | `████░░░░░░` Study |
+| Physical Verification | `████░░░░░░` Frontier |
+| Formal Verification | `███░░░░░░░` Frontier |
+| Timing Signoff | `████░░░░░░` Frontier |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                    FLAGSHIP PROJECTS                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 05` &nbsp; Flagship Engineering Projects
+
+<br/>
+
+<details>
+<summary><b>&nbsp; 01 · 7-Day AMBA Protocol Series</b> &nbsp;—&nbsp; <i>AXI4-Lite · Active Sprint · Nik-Coronics R&D</i></summary>
+
+<br/>
 
 ```
-VLSI / ASIC DESIGN              DESIGN VERIFICATION           LOW-POWER TECHNIQUES
-──────────────────              ───────────────────           ────────────────────
-RTL Design (Verilog/SV)        Functional Verification       Clock Gating (ICG)
-Digital ASIC Flow               Testbench Development         Power Gating
-Logic Synthesis                 Multi-Corner Simulation       Multi-VTH Design
-STA / Timing Analysis           DFT Fundamentals              Dynamic Power Opt.
-Clock Tree Synthesis            Timing Closure                Static Power Opt.
-Power Analysis & Signoff        DRC / LVS                     Near-Threshold (NTV)
-
-MEMORY & ANALOG                 HARDWARE PLATFORMS            EDA TOOLS
-────────────────                ──────────────────            ─────────
-6T SRAM Design (SPICE)         FPGA (Xilinx Vivado)          Cadence Virtuoso
-SNM Characterization            Arduino / STM32 / ESP32       Synopsys VCS
-Multi-Stage Op-Amp              Raspberry Pi / NodeMCU        Synopsys PrimeTime PX
-Signal Integrity                Embedded C / Python           ModelSim / LTSpice
-ESD Protection                  Power Electronics             BSIM4 / SPICE
-I/O Pad Design                  MATLAB                        Xilinx Vivado
+┌─ SPRINT SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Protocol Target  :  AMBA AXI4-Lite — ARM AMBA 4 Specification              │
+│  Focus            :  Write / Read Channels · Handshaking · Response Logic   │
+│  HDL              :  Verilog / SystemVerilog · Xilinx Vivado                 │
+│  Verification     :  Self-Checking Testbenches · Waveform Analysis           │
+│  Status           :  ACTIVE — Day-by-Day Structured Implementation           │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+**Engineering Objective:** Implement a production-quality AXI4-Lite Master-Slave interface from scratch within a structured 7-day sprint — with complete functional verification and waveform-validated VALID-READY handshaking compliance.
+
+**Protocol Coverage:** AXI4-Lite Write Address / Write Data / Write Response channels. AXI4-Lite Read Address / Read Data channels. VALID-READY handshake protocol compliance. Back-pressure and stall behavior testing.
+
+**Verification Strategy:** Transaction-level testbenches with VALID/READY randomization for corner-case coverage. BRESP/RRESP response decoding verification. Functional comparison against ARM-spec expected behavior at each channel.
+
+**Engineering Value:** This sprint operationalizes the AMBA protocol knowledge required for AXI-connected IP block integration — a critical skill in any modern SoC or ASIC design flow.
+
+</details>
 
 ---
 
-## // 04 &nbsp; Flagship Projects
+<details>
+<summary><b>&nbsp; 02 · 14-Day RTL-to-DV Development Series</b> &nbsp;—&nbsp; <i>Systematic Architecture Build · Verilog · Xilinx Vivado · FPGA Validated</i></summary>
 
-| # | Project | Tech | Highlight |
-|:-:|---------|------|-----------|
-| 01 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45nm | **61.7% power reduction** · 48.9→18.7 mW |
-| 02 | [**Low-Power Flip-Flop Study**](https://github.com/SHIWANK72/Thesis-Low-Power-Flip-Flop-Architectures) | SPICE · 28nm+65nm | ATC-SCDFF: **PDP = 0.32 fJ** · 69% better |
-| 03 | [**NIK-CORE — 8-bit RISC Processor**](https://github.com/SHIWANK72/Project-NIK-CORE) | Verilog/SV · FPGA | Custom ISA · ALU + Control + Register File |
-| 04 | [**Verilog 8-bit RISC — RTL to FPGA**](https://github.com/SHIWANK72/Verilog-8-bit-RISC-Processor) | Verilog · Vivado | FPGA validated · Full testbench |
-| 05 | [**6T SRAM Cell Design**](https://github.com/SHIWANK72/VLSI-6T-SRAM-Cell-Analysis) | SPICE · BSIM4 | SNM: 92–108 mV · Multi-corner sim |
-| 06 | [**High-Speed I/O Pad Design**](https://github.com/SHIWANK72/VLSI-High-Speed-IO-Pad-Design) | Cadence Virtuoso | ESD protection · Parasitic extraction |
-| 07 | [**14-Day RTL to DV Series**](https://github.com/SHIWANK72) | Verilog | Gates→Mux→Adder→FF→Counter→FSM |
-| 08 | [**EV Regenerative Braking**](https://github.com/SHIWANK72/Innovation-EV-Regenerative-Braking) | Embedded C | Kinetic energy recovery prototype |
-| 09 | [**Smart Coach — AI Web App**](https://github.com/SHIWANK72/My-Super-Coach) | React · Firebase | Full-stack · Gemini API · Android APK |
-
----
-
-## // 05 &nbsp; 14-Day RTL to DV Series — Active
+<br/>
 
 ```
-  Day 01  ·  Basic Gates                          [DONE]  Complete
+┌─ SERIES SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Target           :  RTL design + full verification per module               │
+│  Toolchain        :  Verilog / SystemVerilog · Xilinx Vivado                 │
+│  Coverage         :  14 progressive modules — Basic Gates to Full Processor  │
+│  Hardware         :  FPGA board deployment and validation — Artix-7          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+  Day 01  ·  Basic Logic Gates                    [DONE]  Complete
   Day 02  ·  Multiplexer / Demultiplexer           [DONE]  Complete
-  Day 03  ·  Adder Implementation (RCA)            [DONE]  Complete
+  Day 03  ·  Ripple Carry Adder (RCA)              [DONE]  Complete
   Day 04  ·  Decoder / Priority Encoder            [DONE]  Complete
-  Day 05  ·  Synchronous & Async D Flip-Flop       [DONE]  Complete
-  Day 06  ·  SISO / SIPO / Up Counter              [DONE]  Complete
-  Day 07  ·  Finite State Machine (Moore/Mealy)    [DONE]  Complete
-  Day 08  ·  ──────────────────────────────────── [ >> ]  In Progress
+  Day 05  ·  D Flip-Flop (Sync & Async Reset)      [DONE]  Complete
+  Day 06  ·  Shift Registers / Up Counter          [DONE]  Complete
+  Day 07  ·  FSM — Moore & Mealy                   [DONE]  Complete
+  Day 08  ·  FIFO Memory Buffer                    [DONE]  Complete
+  Day 09  ·  SRAM Memory Controller                [DONE]  Complete
+  Day 10  ·  UART Transmitter                      [DONE]  Complete
+  Day 11  ·  ──────────────────────────────────── [ >> ]  In Progress
    ...
   Day 14  ·  Full DV Testbench — SystemVerilog     [TGT]  Target
 ```
 
----
+**Engineering Approach:** Every module — RTL design, synthesis, self-checking testbench, and FPGA bitstream — built independently to production standard before proceeding. 100% functional coverage targeted per module.
 
-## // 06 &nbsp; Competency Map
+**Lessons Reinforced:** Correct reset strategy (sync vs async) dictates timing constraints significantly. FIFO full/empty flag edge cases require careful pointer arithmetic — one-off errors cause silent data corruption.
 
-```
-ASIC Design Flow
-────────────────────────────────────────────────────────────────
-RTL Design (Verilog)       [==========]  Production
-Clock Gating (ICG)         [=========.]  Strong
-Low-Power CMOS Analysis    [=========.]  Strong
-SPICE / Circuit Sim        [========..]  Solid
-FPGA Implementation        [========..]  Solid
-STA / Timing Closure       [=======...]  Growing
-Logic Synthesis            [=======...]  Growing
-Cadence Virtuoso           [======....]  Developing
-
-Design Verification — Frontier
-────────────────────────────────────────────────────────────────
-Functional Testbench       [========..]  Active
-Multi-Corner Simulation    [=======...]  Active
-SystemVerilog DV           [=====.....]  Study
-UVM Methodology            [===.......]  Frontier
-Physical Design / PnR      [===.......]  Frontier
-```
+</details>
 
 ---
 
-## // 07 &nbsp; Experience
+<details>
+<summary><b>&nbsp; 03 · Clock Gating Optimization — 61.7% Dynamic Power Reduction</b> &nbsp;—&nbsp; <i>45 nm CMOS · 200 MHz · Published Research · Synopsys PrimeTime PX</i></summary>
+
+<br/>
 
 ```
-  ◈  Independent VLSI Researcher    Nik-Coronics            Jul 2025 – Present
-     RTL · SPICE · 45nm/28nm/65nm Simulations · Published Research Results
-
-  ◈  Data Engineer Intern           Samsung SDS India       Mar 2025 – Jul 2025
-     Python · Pipeline Automation · Global Semiconductor Operations
-
-  ◈  ASIC Design Trainee            TeamLease Services      Sep 2022 – Sep 2025
-     3-Year Industry Training · 60 hrs/month · RTL · Synthesis · EDA Tools
-
-  ◈  VLSI Design Intern             Kurukshetra University  Jul 2024 – Aug 2024
-     Cadence Virtuoso · DRC/LVS · Post-Layout Sim · Letter of Recommendation
-
-  ◈  QA Intern                      Sledgehammer Oil Tools  Jul 2023 – Aug 2023
-     Defect Inspection · Root Cause Analysis · QC Methodology
+┌─ RESEARCH SPECIFICATION ────────────────────────────────────────────────────┐
+│  Target Design    :  32-bit RISC Processor Datapath                         │
+│  Technology Node  :  45 nm CMOS                                              │
+│  Clock Frequency  :  200 MHz                                                 │
+│  Method           :  Static ICG + Dynamic Gating + Hybrid ICG Scheme        │
+│  Tool             :  Verilog RTL · Synopsys PrimeTime PX (Power Analysis)   │
+│  Key Result       :  48.9 mW → 18.7 mW — 61.7% Dynamic Power Reduction     │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+**Research Objective:** Systematically evaluate static, dynamic, and hybrid integrated clock gating schemes on a 32-bit RISC datapath — quantifying power savings versus timing impact at 45 nm process node.
+
+**Methodology:** RTL-level clock gating insertion modeled in Verilog HDL. Three-way comparative analysis: static ICG (always-on enable logic), dynamic gating (activity-driven switching), and hybrid scheme (static ICG with dynamic override). Power profiled via Synopsys PrimeTime PX under realistic activity factors across TT/SS/FF corners.
+
+**Engineering Constraints:** Clock enable path timing must not introduce setup margin violations. ICG cell placement must preserve hold time across all operating corners. Enable signal glitch filtering essential to prevent spurious gating events.
+
+**Key Result:** Hybrid ICG scheme achieved 61.7% dynamic power reduction (48.9 mW → 18.7 mW) while maintaining full timing closure at 200 MHz across all simulated corners.
+
+**Lessons Learned:** Hybrid schemes consistently outperform either static or dynamic gating in isolation for wide datapaths. ICG insertion granularity is a power-area tradeoff that demands systematic analysis, not intuition.
+
+</details>
 
 ---
 
-## // 08 &nbsp; Engineering Philosophy
+<details>
+<summary><b>&nbsp; 04 · Low-Power Flip-Flop Architecture Study — 69% PDP Improvement</b> &nbsp;—&nbsp; <i>28 nm HKMG + 65 nm Bulk CMOS · Near-Threshold Voltage · Published Research</i></summary>
+
+<br/>
+
+```
+┌─ RESEARCH SPECIFICATION ────────────────────────────────────────────────────┐
+│  Technology Nodes :  28 nm HKMG  +  65 nm Bulk CMOS                         │
+│  Operating Regime :  Near-Threshold Voltage (NTV)                            │
+│  Architectures    :  4 — Standard TGFF · MHLAFF · ATC-SCDFF + baseline     │
+│  Best Result      :  ATC-SCDFF — PDP = 0.32 fJ — 69% improvement           │
+│  Tool             :  SPICE (BSIM4) · Multi-corner simulation                 │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Research Objective:** Benchmark four sequential cell architectures for power-delay-area tradeoffs in the NTV regime at sub-32 nm nodes — targeting ultra-low-power IoT and always-on compute applications.
+
+**Methodology:** SPICE-level transient simulation using BSIM4 physics-accurate transistor models. Full PDP sweep across TT/SS/FF corners at NTV supply voltage. Hold-time compliance verified at each corner for all architectures.
+
+**Key Result:** ATC-SCDFF delivered PDP = 0.32 fJ — a 69% improvement over conventional transmission-gate baseline — while maintaining timing compliance across all simulated corners at both 28 nm and 65 nm nodes.
+
+**Lessons Learned:** NTV operation fundamentally amplifies architecture-level differences — standard cells become progressively uncompetitive below 400 mV supply. Single-cycle discharge topology in ATC-SCDFF is the architectural reason for its superior switching energy profile.
+
+</details>
+
+---
+
+<details>
+<summary><b>&nbsp; 05 · NIK-CORE — 8-bit RISC Processor</b> &nbsp;—&nbsp; <i>Custom ISA · Verilog/SystemVerilog · FPGA Validated · Nik-Coronics R&D</i></summary>
+
+<br/>
+
+```
+┌─ PROCESSOR SPECIFICATION ───────────────────────────────────────────────────┐
+│  Architecture     :  8-bit RISC — Custom Instruction Set Architecture       │
+│  Components       :  ALU · Control Unit · Register File · Instruction Decoder│
+│  HDL              :  Verilog / SystemVerilog                                 │
+│  Validation       :  Full module testbenches + FPGA hardware deployment      │
+│  Organization     :  Nik-Coronics — Independent Hardware R&D Initiative     │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Design Objective:** Build a complete RISC processor from custom ISA definition through FPGA hardware validation — covering every stage of the RTL-to-hardware flow without pre-defined IP blocks.
+
+**Architecture Coverage:** 8-bit ALU with arithmetic and logical operations. Custom 8-bit ISA encoding with opcode field allocation. Register file with configurable depth. Control unit FSM managing fetch-decode-execute pipeline. Instruction decoder with complete opcode decoding.
+
+**Verification Approach:** Independent module-level testbenches for ALU, decoder, register file, and control unit. Top-level integration testbench running real instruction sequences. FPGA hardware board validation confirming synthesis-to-bitstream functional correctness across clock frequency sweep.
+
+**Lessons Learned:** ISA design choices directly constrain hardware complexity — opcode field allocation determines decoder logic depth and critical path. Register file bypass logic is critical for data hazard management even in single-cycle pipelines.
+
+</details>
+
+---
+
+<details>
+<summary><b>&nbsp; 06 · 6T SRAM Cell Design & SPICE Characterization</b> &nbsp;—&nbsp; <i>Full-Custom · BSIM4 · Multi-Corner · SNM 92–108 mV</i></summary>
+
+<br/>
+
+```
+┌─ DESIGN SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Cell Type        :  6-Transistor (6T) SRAM — Full-Custom Transistor Design │
+│  SPICE Model      :  BSIM4 — Physics-accurate process modeling               │
+│  SNM Result       :  92–108 mV — Read and Write stability characterized      │
+│  Corners Tested   :  TT / SS / FF / SNFP / FNSP                             │
+│  Method           :  Butterfly Curve Analysis + Systematic Transistor Sizing │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Design Objective:** Full transistor-level characterization of a 6T SRAM cell — establishing read stability, write-ability, hold stability, and leakage behavior across all five process corners.
+
+**Methodology:** Butterfly curve technique for SNM extraction under read and hold modes. Systematic cell ratio (CR) and pull-up ratio (PR) sweep for stability optimization. Leakage current characterized per corner. Write margin confirmed via wordline voltage sweep.
+
+**Lessons Learned:** Cell ratio (CR) and pull-up ratio (PR) are coupled parameters — optimizing read stability degrades write-ability by design. SNFP corner is worst-case read failure; FNSP corner is worst-case write failure — both must be validated independently, never together.
+
+</details>
+
+---
+
+<details>
+<summary><b>&nbsp; 07 · High-Speed Digital I/O Pad Design</b> &nbsp;—&nbsp; <i>Cadence Virtuoso · ESD Protection · Signal Integrity · Parasitic Extraction</i></summary>
+
+<br/>
+
+```
+┌─ DESIGN SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Tool             :  Cadence Virtuoso — Full-Custom Layout & Simulation     │
+│  Protection       :  Integrated ESD clamp structures                        │
+│  Analysis         :  Post-layout parasitic extraction · SI characterization  │
+│  Frequency        :  High-speed switching behavior profiled                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Design Objective:** Design and verify a high-speed CMOS digital I/O pad capable of robust operation under high-frequency switching — maintaining ESD protection compliance and signal integrity simultaneously.
+
+**Engineering Constraints:** ESD clamp placement must not degrade switching speed below specification. Post-layout parasitic capacitance must be extracted and its frequency impact quantified. Output driver sizing must balance rise/fall time against power dissipation limits.
+
+**Lessons Learned:** I/O pad layout parasitics are not secondary — capacitive loading from ESD structures directly limits maximum operating frequency. Latch-up susceptibility in ESD cells requires careful well-tie and guard ring placement verified under high-current stimulus.
+
+</details>
+
+---
+
+<details>
+<summary><b>&nbsp; 08 · Smart Coach — AI-Powered Web Application</b> &nbsp;—&nbsp; <i>React · Firebase · Gemini API · Full-Stack · Android APK</i></summary>
+
+<br/>
+
+```
+┌─ APPLICATION SPECIFICATION ─────────────────────────────────────────────────┐
+│  Frontend         :  React + Vite — Single Page Application                  │
+│  Auth & DB        :  Firebase Authentication + Firestore                     │
+│  AI Engine        :  Google Gemini API — Serverless Proxy for Key Security  │
+│  Deployment       :  Vercel (web) + Android APK (mobile build)              │
+│  Features         :  TTS · Multi-language · Resume AI · Mock Interview Timer │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Engineering Objective:** Build a production-grade AI coaching platform — demonstrating full-stack software capability alongside silicon-level VLSI work.
+
+**Key Engineering Decisions:** Serverless API proxy to prevent Gemini API key exposure in client bundle. Firebase authorized domain configuration for secure auth flow. Text-to-speech module with multi-language toggle. Mock interview timer with structured progress tracking charts. Resume AI module with formatted feedback output pipeline. Android APK build via Capacitor for mobile deployment.
+
+**Lessons Learned:** API key security in client-side React is non-trivial — serverless proxy is the only reliable solution without a backend. Firebase authorized domains must be explicitly configured for each deployment environment or auth silently fails.
+
+</details>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  COMPLETE REPOSITORY INDEX                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 06` &nbsp; Repository Index
+
+<br/>
+
+| # | Repository | Stack | Status |
+|:-:|-----------|-------|--------|
+| 01 | [**7-Day AMBA Protocol Series**](https://github.com/SHIWANK72/7-days--AMBA-Protocol-Series) | Verilog · AXI4-Lite | 🟢 Active Sprint |
+| 02 | [**14-Day RTL-to-DV Series**](https://github.com/SHIWANK72/14-DAYS-DEVELOPMENT-SERIES--RTL-TO-DV-) | Verilog · Vivado | 🟢 In Progress |
+| 03 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45 nm · PrimeTime PX | ⭐ Published · 61.7% ΔP |
+| 04 | [**Low-Power Flip-Flop Study**](https://github.com/SHIWANK72/Thesis-Low-Power-Flip-Flop-Architectures) | SPICE · 28 nm · 65 nm CMOS | ⭐ Published · 69% PDP |
+| 05 | [**NIK-CORE 8-bit RISC**](https://github.com/SHIWANK72/Project-NIK-CORE) | Verilog/SV · FPGA | ✅ Hardware Validated |
+| 06 | [**Verilog 8-bit RISC Processor**](https://github.com/SHIWANK72/Verilog-8-bit-RISC-Processor) | Verilog · Vivado | ✅ FPGA Deployed |
+| 07 | [**6T SRAM Cell Analysis**](https://github.com/SHIWANK72/VLSI-6T-SRAM-Cell-Analysis) | SPICE · BSIM4 | ✅ SNM: 92–108 mV |
+| 08 | [**High-Speed I/O Pad Design**](https://github.com/SHIWANK72/VLSI-High-Speed-IO-Pad-Design) | Cadence Virtuoso | ✅ ESD + SI Analysis |
+| 09 | [**Smart Coach AI App**](https://github.com/SHIWANK72/My-Super-Coach) | React · Firebase · Gemini API | ✅ Deployed + APK |
+| 10 | [**EV Regenerative Braking**](https://github.com/SHIWANK72/Innovation-EV-Regenerative-Braking) | Embedded C · Hardware | ✅ Hardware Prototype |
+| 11 | [**3D Portfolio Website**](https://github.com/SHIWANK72/3d-portfolio) | React · TypeScript · Three.js | ✅ Live |
+| 12 | [**Dual-Mode Autonomous Robot**](https://github.com/SHIWANK72/Dual-Mode-Autonomous-Robot) | C++ · Arduino | ✅ Complete |
+| 13 | [**Hand Gesture Robot**](https://github.com/SHIWANK72/Hand-Gesture-Controlled-ROBOT) | Arduino · MPU6050 | ✅ Complete |
+| 14 | [**3-Phase Instrumentation Panel**](https://github.com/SHIWANK72/Hardware-3-Phase-Instrumentation-Panel) | Hardware · Wiring & Testing | ✅ Built & Tested |
+| 15 | [**AC-to-Variable DC Converter**](https://github.com/SHIWANK72/Hardware-AC-to-Variable-DC-Converter) | Hardware · LM317 | ✅ Complete |
+| 16 | [**Portfolio Website**](https://github.com/SHIWANK72/SHIWANK72.github.io) | HTML · CSS | ✅ Live |
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  ENGINEERING TIMELINE                                -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 07` &nbsp; Engineering Timeline
+
+<br/>
+
+<div align="center">
+
+```
+  Diploma EE              B.Tech ECE             VLSI Research          AMBA Sprint
+  Gold Medalist           UIET, KU               Published @ 3 Nodes    AXI4-Lite
+  ─────────────           ──────────             ───────────────────    ──────────
+        │                      │                         │                   │
+        ▼                      ▼                         ▼                   ▼
+  ──────●──────────────────────●─────────────────────────●───────────────────●────▶
+        │                      │                         │                   │
+        │    ASIC Training      │   TeamLease 3-Year     │  Samsung SDS      │ Now
+        │    RTL · Synthesis    │   60 hrs/month         │  Data Pipelines   │
+        │    EDA Tools          │   Design Reviews       │  Python · Semi    │
+        │    ──────────         │   ─────────────        │  ─────────────    │
+        ▼                      ▼                         ▼                   ▼
+  Foundation            Industry Exposure          Production Results  DV Frontier ──▶
+  2019–2022             2022–2025                  2024–2025           2025–Now
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  CERTIFICATIONS & TRAINING                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 08` &nbsp; Certifications & Training
+
+<br/>
+
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
+║                       LICENSES & CERTIFICATIONS                              ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                               ║
-║  "Logic does not forgive ambiguity.                                           ║
-║   Every unverified state is a bug already in silicon."                        ║
+║  ◈  LEAN SIX SIGMA AI YELLOW BELT                        Jun 2026            ║
+║     Council for Six Sigma Certification (CSSC) — Internationally Accredited ║
+║     Conducted by: Sparen & Gewinn Consulting                                 ║
+║     Credential ID: SG2760AI58515                                             ║
+║     Skills: Data Analysis · Continuous Improvement · Process Optimization   ║
 ║                                                                               ║
-║  ─────────────────────────────────────────────────────────────────────────   ║
+║  ◈  VLSI (LIMITED) ASSESSMENT — GRADUATION LEVEL         May 2026            ║
+║     Silicon Interfaces — B2Cie™ (Betsie) Platform                           ║
+║     Grade: Very Good · Skills: Verilog · SystemVerilog · VLSI               ║
 ║                                                                               ║
-║  Every uninitialized flip-flop is metastability waiting for a clock edge.    ║
-║  Every missing testbench is a corner case shipped to production.              ║
-║  Every ignored timing violation is a field failure at worst temperature.     ║
-║  Every power assumption not validated is a thermal throttle in disguise.     ║
+║  ◈  DIGITAL ASIC DESIGN — 3-YEAR INDUSTRY TRAINING  Sep 2022–Sep 2025       ║
+║     TeamLease Services Limited                                               ║
+║     60 hrs/month · RTL · Synthesis · EDA Verification · Timing Analysis     ║
 ║                                                                               ║
-║  Digital circuits fail predictably.                                           ║
-║  Know the state machine. Verify every transition. Control every path.        ║
+║  ◈  VLSI DESIGN & CADENCE VIRTUOSO                   Jul–Aug 2024            ║
+║     Kurukshetra University — Letter of Recommendation Awarded               ║
+║     DRC/LVS · Post-Layout Simulation · Full-Custom IC Design                ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-## // 09 &nbsp; GitHub Stats
+<br/>
 
-![Shiwank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIWANK72&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=8b949e)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWANK72&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=8b949e)
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  LANGUAGES                                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SHIWANK72&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff)
+## `// 09` &nbsp; Languages
 
----
+<br/>
 
-## // 10 &nbsp; Open To
+<div align="center">
 
-![VLSI Design](https://img.shields.io/badge/VLSI%20Design-00e5ff?style=for-the-badge&labelColor=161b22&color=00e5ff)
-![Design Verification](https://img.shields.io/badge/Design%20Verification-00e5ff?style=for-the-badge&labelColor=161b22&color=0d4f6b)
-![RTL Engineering](https://img.shields.io/badge/RTL%20Engineering-00e5ff?style=for-the-badge&labelColor=161b22&color=00e5ff)
-![Physical Design](https://img.shields.io/badge/Physical%20Design-00e5ff?style=for-the-badge&labelColor=161b22&color=0d4f6b)
-![Hardware Testing](https://img.shields.io/badge/Hardware%20Testing-00e5ff?style=for-the-badge&labelColor=161b22&color=00e5ff)
-![FPGA Engineering](https://img.shields.io/badge/FPGA%20Engineering-00e5ff?style=for-the-badge&labelColor=161b22&color=0d4f6b)
-![STA Timing Analysis](https://img.shields.io/badge/STA%20%2F%20Timing%20Analysis-00e5ff?style=for-the-badge&labelColor=161b22&color=00e5ff)
-![Semiconductor RD](https://img.shields.io/badge/Semiconductor%20R%26D-00e5ff?style=for-the-badge&labelColor=161b22&color=0d4f6b)
-![Global Relocation Ready](https://img.shields.io/badge/Global%20Relocation%20Ready%20%E2%9C%93-ffffff?style=for-the-badge&labelColor=00e5ff&color=00e5ff)
+<img src="https://img.shields.io/badge/Hindi-Native-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Punjabi-Native-161b22?style=for-the-badge&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/English-Professional%20Working-00e5ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Duolingo%20Score-115%20%28Apr%202026%29-58CC02?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=3a8a00"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Chinese%20(Mandarin)-Elementary-001a26?style=for-the-badge&labelColor=001a26"/>
 
----
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  ASIC DESIGN FLOW — ARCHITECTURE                    -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 10` &nbsp; ASIC Design Flow — Study Architecture
+
+<br/>
+
+<div align="center">
 
 ```
-◈  SHIWANK GUPTA  ·  VLSI DESIGN ENGINEER  ·  SHIWANK72  ◈
-gupta.shiwank09@gmail.com  ·  Panchkula, Haryana  ·  Open to Global Relocation
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                       DIGITAL ASIC DESIGN FLOW                               ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   RTL DESIGN                  VERIFICATION                  SYNTHESIS         ║
+║   ──────────                  ────────────                  ─────────         ║
+║                                                                               ║
+║   Verilog / SystemVerilog     Functional TB (VCS)           Synopsys DC       ║
+║   ├─ RTL Architecture         ├─ Self-Checking TB           ├─ Constraints    ║
+║   ├─ Clock Gating (ICG)       ├─ Multi-Corner Sim           ├─ Area / Timing  ║
+║   ├─ Power Intent             ├─ Directed Stress Test       ├─ Gate-Level NL  ║
+║   └─ Coding Guidelines        └─ Coverage Analysis          └─ SDC Generation ║
+║                                                                               ║
+║   STA / TIMING                LOW-POWER                     PHYSICAL DESIGN   ║
+║   ──────────                  ─────────                     ───────────────   ║
+║                                                                               ║
+║   Synopsys PrimeTime PX       Clock Gating — 61.7% ΔP       Floorplanning     ║
+║   ├─ Setup / Hold Margins     Power Gating                   Placement & Route ║
+║   ├─ Clock Tree Analysis      Multi-VTH Optimization         CTS               ║
+║   ├─ Power Analysis           NTV Design (28/65 nm)          DRC / LVS        ║
+║   └─ Timing Closure           ATC-SCDFF — 69% PDP           Signoff           ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  ENGINEERING PHILOSOPHY                              -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 11` &nbsp; Engineering Philosophy
+
+<br/>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   "Logic does not forgive ambiguity.                                          ║
+║    Every unverified state is a bug already in silicon."                       ║
+║                                                                               ║
+║   ─────────────────────────────────────────────────────────────────────────  ║
+║                                                                               ║
+║   Every uninitialized flip-flop is metastability waiting for a clock edge.   ║
+║   Every missing testbench is a corner case shipped to production.             ║
+║   Every ignored timing violation is a field failure at worst temperature.    ║
+║   Every power assumption not validated is a thermal throttle in disguise.    ║
+║                                                                               ║
+║   Digital circuits fail predictably.                                          ║
+║   Know the state machine. Verify every transition. Control every path.       ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATISTICS                                   -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 12` &nbsp; GitHub Statistics
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/SHIWANK72">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SHIWANK72&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=4a9eba&ring_color=00e5ff&custom_title=Contribution+Overview" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/SHIWANK72">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWANK72&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=4a9eba&custom_title=Primary+Languages" alt="Top Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/SHIWANK72">
+  <img width="68%" src="https://streak-stats.demolab.com/?user=SHIWANK72&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=4a9eba&dates=4a9eba&stroke=161b22&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/SHIWANK72">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHIWANK72&bg_color=0d1117&color=00e5ff&line=0a3d55&point=00e5ff&area=true&area_color=051520&hide_border=true&custom_title=Contribution+Activity+Graph" alt="Contribution Graph"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SHIWANK72&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                                  -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 13` &nbsp; Contribution Map
+
+<br/>
+
+<div align="center">
+
+<!-- To activate your own snake: set up the Platane/snk GitHub Action in your repo -->
+<!-- Action file: .github/workflows/snake.yml — generates output branch with your SVG -->
+<img width="92%" src="https://raw.githubusercontent.com/SHIWANK72/SHIWANK72/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                         -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+## `// 14` &nbsp; Connect
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**`EMAIL`**<br/>
+[gupta.shiwank09@gmail.com](mailto:gupta.shiwank09@gmail.com)
+
+</td>
+<td align="center" width="25%">
+
+**`LINKEDIN`**<br/>
+[linkedin.com/in/guptashiwank](https://linkedin.com/in/guptashiwank)
+
+</td>
+<td align="center" width="25%">
+
+**`GITHUB`**<br/>
+[github.com/SHIWANK72](https://github.com/SHIWANK72)
+
+</td>
+<td align="center" width="25%">
+
+**`LOCATION`**<br/>
+Panchkula, Haryana, India
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+Open to opportunities in:
+VLSI Design  ·  Design Verification  ·  RTL Engineering  ·  Physical Design
+FPGA Development  ·  Semiconductor R&D  ·  STA / Timing Analysis
+Hardware Testing  ·  ASIC Verification  ·  Global Relocation Ready ✓
+```
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SHIWANK72&style=flat-square&color=00e5ff&label=PROFILE+VIEWS&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER BANNER                                   -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1220,70:06101a,100:0d1117&height=140&section=footer&text=From%20RTL%20to%20Tapeout%20%E2%80%94%20building%20silicon%20from%20logic%20gates%20to%20full%20ASIC%20flow.&fontSize=14&fontColor=4a9eba&fontAlignY=52&animation=fadeIn"/>
