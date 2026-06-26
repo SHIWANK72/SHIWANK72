@@ -68,8 +68,8 @@
 │   ◈  DISCIPLINE        VLSI Design · Design Verification · Low-Power CMOS      │
 │   ◈  SPECIALIZATION    RTL Engineering · Digital ASIC Flow · FPGA Development  │
 │   ◈  ACADEMIC          B.Tech — Electronics & Communication Engineering         │
-│                         UIET, Kurukshetra University | CGPA: 7.11/10           │
-│   ◈  DIPLOMA           Electrical Engineering — Gold Medalist | CGPA: 8.5/10  │
+│                         UIET, Kurukshetra University |                          │
+│   ◈  DIPLOMA           Electrical Engineering — Gold Medalist |                 │
 │                                                                                 │
 │   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
 │                                                                                 │
