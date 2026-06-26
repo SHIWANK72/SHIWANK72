@@ -4,10 +4,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1220,50:06101a,75:080e1c,100:0d1117&height=240&section=header&text=SHIWANK%20GUPTA&fontSize=62&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=VLSI%20Design%20Engineer%20%20·%20%20RTL%20%26%20Verification%20%20·%20%20Low-Power%20CMOS%20%20·%20%20FPGA%20%26%20ASIC&descSize=13&descColor=4a9eba&descAlignY=62&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1220,50:06101a,75:080e1c,100:0d1117&height=240&section=header&text=SHIWANK%20GUPTA&fontSize=62&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=VLSI%20Design%20Engineer%20%20·%20%20RTL%20and%20Verification%20%20·%20%20Low-Power%20CMOS%20%20·%20%20FPGA%20and%20ASIC&descSize=13&descColor=4a9eba&descAlignY=62&descAlign=50&animation=fadeIn"/>
 
 </div>
-
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                                -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
