@@ -24,7 +24,7 @@ jobs:
     steps:
       # Aapke github user (@SHIWANK72) ke contributions read karega aur snake generate karega
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/yaml-build@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
