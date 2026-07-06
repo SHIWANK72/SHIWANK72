@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1220,50:06101a,75:080e1c,100:0d1117&height=240&section=header&text=SHIWANK%20GUPTA&fontSize=62&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=VLSI%20Design%20Engineer%20%20·%20%20RTL%20and%20Verification%20%20·%20%20Low-Power%20CMOS%20%20·%20%20FPGA%20and%20ASIC&descSize=13&descColor=4a9eba&descAlignY=62&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1220,50:06101a,75:080e1c,100:0d1117&height=240&section=header&text=SHIWANK%20GUPTA&fontSize=62&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=VLSI%20Design%20Engineer%20%20·%20%20RTL%20to%20GDSII%20%20·%20%20Low-Power%20CMOS%20%20·%20%20FPGA%20and%20ASIC&descSize=13&descColor=4a9eba&descAlignY=62&descAlign=50&animation=fadeIn"/>
 
 </div>
 <!-- ══════════════════════════════════════════════════════════════════════ -->
@@ -14,7 +14,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=820&height=34&lines=VLSI+Design+Engineer+%7C+RTL+%E2%86%92+Synthesis+%E2%86%92+STA+%E2%86%92+Tapeout;61.7%25+Dynamic+Power+Reduction+%40+45+nm+CMOS+%7C+Published+Research;7-Day+AMBA+Protocol+Sprint+%E2%80%94+AXI4-Lite+%7C+ACTIVE;Design+Verification+%7C+STA+%7C+Timing+Closure+%7C+DRC%2FLVS;Low-Power+CMOS+%7C+Clock+Gating+(ICG)+%7C+NTV+Design;Gold+Medalist+%7C+Lean+Six+Sigma+AI+YB+%7C+Global+Relocation+Ready" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=820&height=34&lines=VLSI+Design+Engineer+%7C+RTL+%E2%86%92+Synthesis+%E2%86%92+STA+%E2%86%92+Tapeout;RTL-to-GDSII+Flow+Complete+%E2%80%94+NIK-CORE+%7C+OpenLane+%2B+Sky130+PDK;61.7%25+Dynamic+Power+Reduction+%40+45+nm+CMOS+%7C+Published+Research;7-Day+AMBA+Protocol+Sprint+%E2%80%94+AXI4-Lite+%7C+ACTIVE;Design+Verification+%7C+STA+%7C+Timing+Closure+%7C+DRC%2FLVS;Low-Power+CMOS+%7C+Clock+Gating+(ICG)+%7C+NTV+Design;Gold+Medalist+%7C+Lean+Six+Sigma+AI+YB+%7C+Global+Relocation+Ready" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -66,14 +66,14 @@
 │                                                                                 │
 │   ◈  ENGINEER          Shiwank Gupta                                            │
 │   ◈  DISCIPLINE        VLSI Design · Design Verification · Low-Power CMOS      │
-│   ◈  SPECIALIZATION    RTL Engineering · Digital ASIC Flow · FPGA Development  │
+│   ◈  SPECIALIZATION    RTL Engineering · Digital ASIC Flow · Physical Design   │
 │   ◈  ACADEMIC          B.Tech — Electronics & Communication Engineering         │
 │                         UIET, Kurukshetra University |                          │
 │   ◈  DIPLOMA           Electrical Engineering — Gold Medalist |                 │
 │                                                                                 │
 │   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
 │                                                                                 │
-│   PRESENT  ▸  7-Day AMBA Sprint · 14-Day RTL-to-DV · NIK-CORE RISC            │
+│   PRESENT  ▸  NIK-CORE RTL-to-GDSII · 7-Day AMBA Sprint · OpenLane + Sky130    │
 │   VECTOR   ▸  Design Verification · STA · Timing Closure · Physical Design     │
 │   FRONTIER ▸  UVM · ASIC Tapeout · Global Semiconductor R&D                   │
 │                                                                                 │
@@ -171,26 +171,26 @@ NTV Research:
 </td>
 <td width="25%" valign="top">
 
-**`PHYSICAL DESIGN — FRONTIER`**
+**`PHYSICAL DESIGN — RTL TO GDSII`**
 
 ```yaml
 PnR Flow:
   - Floorplanning
   - Placement & Routing
-  - Timing Signoff
-  - Power Grid Design
+  - Clock Tree Synthesis
+  - Power Grid Design (PDN)
 
-FPGA:
-  - Xilinx Vivado
-  - Synthesis → Bitstream
-  - Hardware Validation
-  - Artix-7 / Cyclone V
+Open-Source EDA:
+  - OpenLane (RTL→GDSII)
+  - Sky130 PDK
+  - Magic VLSI · KLayout
+  - OpenROAD
 
-I/O Design:
-  - High-Speed Pad Design
-  - ESD Protection
-  - Signal Integrity
-  - Cadence Virtuoso
+Signoff:
+  - DRC-Clean Routing
+  - GDSII Streamout
+  - LVS (In Progress)
+  - Antenna Check
 ```
 
 </td>
@@ -228,6 +228,22 @@ I/O Design:
 <img src="https://img.shields.io/badge/ModelSim-0057B8?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/LTSpice-7B0000?style=for-the-badge&logoColor=white"/>
+
+<br/><br/>
+
+**─── Physical Design / RTL-to-GDSII (Open-Source) ───**
+
+<img src="https://img.shields.io/badge/OpenLane-00e5ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Sky130_PDK-00e5ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Magic_VLSI-00e5ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/KLayout-00e5ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OpenROAD-00e5ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GDSII-00e5ff?style=for-the-badge&labelColor=001a26&color=001a26"/>
 
 <br/><br/>
 
@@ -283,7 +299,7 @@ I/O Design:
 
 <img src="https://img.shields.io/badge/▷%20UVM%20Methodology-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
 &nbsp;
-<img src="https://img.shields.io/badge/▷%20Physical%20Design%20PnR-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
+<img src="https://img.shields.io/badge/▷%20LVS%20%2F%20Antenna%20Signoff-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
 &nbsp;
 <img src="https://img.shields.io/badge/▷%20AMBA%20Protocol%20Suite-001a26?style=for-the-badge&labelColor=001a26&color=001a26"/>
 &nbsp;
@@ -329,6 +345,14 @@ I/O Design:
 ║  ├─ Corners Tested            :  TT / SS / FF / SNFP / FNSP                 ║
 ║  └─ Method                    :  Butterfly Curve + Systematic Transistor Sizing║
 ║                                                                               ║
+║  NIK-CORE — RTL-to-GDSII ASIC FLOW (Sky130A · OpenLane)                     ║
+║  ├─ Flow Coverage             :  Synthesis → Floorplan → Placement → CTS →   ║
+║  │                                Routing → GDSII Streamout                  ║
+║  ├─ Routing Signoff           :  DRC-Clean (0 violations post detailed route)║
+║  ├─ Standard Cells Placed     :  362  (8 DFFs · combinational logic)        ║
+║  ├─ Core Utilization          :  54.87%                                     ║
+║  └─ Max Frequency (STA)       :  ~90.9 MHz  ◀── HANDS-ON PHYSICAL DESIGN     ║
+║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -357,7 +381,7 @@ I/O Design:
 | Low-Power CMOS Analysis | `█████████░` Strong |
 | SPICE / Circuit Sim | `████████░░` Solid |
 | FPGA Implementation | `████████░░` Solid |
-| Logic Synthesis | `███████░░░` Growing |
+| Logic Synthesis | `████████░░` Solid |
 | Cadence Virtuoso | `██████░░░░` Developing |
 
 </td>
@@ -370,23 +394,23 @@ I/O Design:
 | Functional Testbench | `████████░░` Solid |
 | Multi-Corner Simulation | `███████░░░` Growing |
 | STA / Timing Closure | `███████░░░` Growing |
-| DRC / LVS | `██████░░░░` Developing |
+| DRC / LVS | `███████░░░` Growing |
 | SystemVerilog DV | `██████░░░░` Active Study |
 | UVM Methodology | `████░░░░░░` Frontier |
 
 </td>
 <td width="33%" valign="top">
 
-**Physical Design — Frontier**
+**Physical Design — RTL to GDSII**
 
 | Domain | Status |
 |---|---|
-| AMBA Protocol (AXI4) | `████████░░` Active Sprint |
-| Post-Layout Simulation | `██████░░░░` Developing |
-| Floorplanning / P&R | `████░░░░░░` Study |
-| Physical Verification | `████░░░░░░` Frontier |
-| Formal Verification | `███░░░░░░░` Frontier |
-| Timing Signoff | `████░░░░░░` Frontier |
+| Floorplanning / P&R | `████████░░` Hands-On |
+| Clock Tree Synthesis | `████████░░` Hands-On |
+| GDSII Streamout (Magic) | `████████░░` Hands-On |
+| Routing DRC Signoff | `███████░░░` Growing |
+| LVS Signoff (netgen) | `████░░░░░░` In Progress |
+| Full Custom Layout | `████░░░░░░` Frontier |
 
 </td>
 </tr>
@@ -408,8 +432,49 @@ I/O Design:
 
 <br/>
 
+<details open>
+<summary><b>&nbsp; 01 · NIK-CORE — 8-bit RISC Processor — RTL to GDSII</b> &nbsp;—&nbsp; <i>Custom ISA · OpenLane · Sky130 PDK · Magic VLSI · KLayout · Nik-Coronics R&D</i></summary>
+
+<br/>
+
+```
+┌─ PHYSICAL DESIGN SPECIFICATION ─────────────────────────────────────────────┐
+│  Architecture     :  8-bit RISC — Custom Instruction Set Architecture       │
+│  PDK / Node       :  Sky130A — SkyWater 130 nm Open-Source PDK             │
+│  EDA Flow         :  OpenLane (Yosys · OpenROAD · Magic · KLayout)         │
+│  Flow Coverage    :  Synthesis → Floorplan → Placement → CTS → Routing →   │
+│                       DRC-Clean Detailed Route → GDSII Streamout           │
+│  Standard Library :  sky130_fd_sc_hd                                        │
+│  Result           :  DRC-Clean Routing · 362 Cells Placed · GDSII Generated│
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Design Objective:** Take a custom 8-bit RISC processor from RTL through the complete open-source digital ASIC backend flow — synthesis, floorplanning, placement, clock tree synthesis, routing, and final GDSII layout generation — using OpenLane on the Sky130A process design kit.
+
+**Physical Design Flow Coverage:**
+- **Synthesis:** RTL (ALU, control unit, register file, PC, instruction decoder, top-level integration) synthesized to sky130_fd_sc_hd standard cells via Yosys.
+- **Floorplanning:** Die area definition, IO pin placement, tap/decap cell insertion, power distribution network (PDN) generation.
+- **Placement:** Global and detailed placement with resizer-based design optimization.
+- **Clock Tree Synthesis (CTS):** Clock buffer insertion and clock network balancing via OpenROAD.
+- **Routing:** Global and detailed routing achieving a **fully DRC-clean route** (0 violations post detailed routing) across all metal layers.
+- **GDSII Streamout:** Final layout generated and verified in Magic VLSI, cross-checked visually in KLayout with the Sky130A layer property (.lyp) mapping.
+
+**Physical Design Metrics (from OpenLane metrics.csv):**
+- Core Utilization: 54.87% · Die Area: 0.00435 mm²
+- Total Placed Cells: 362 (8 DFFs, combinational logic: AND/NAND/NOR/OR/XOR/XNOR/MUX gates)
+- Routed Wire Length: 931,138 units · Vias: 822
+- STA Critical Path: 11.0 ns → Max Safe Frequency: ~90.9 MHz
+
+**Engineering Value:** This project demonstrates hands-on, tool-verified competency across the full digital ASIC backend — not just RTL simulation — directly relevant to Physical Design, DFT, and ASIC Verification roles in the semiconductor industry.
+
+**Status:** RTL-to-GDSII core flow complete and DRC-clean. LVS (netgen) and full antenna signoff in progress as the next milestone toward Efabless OpenMPW shuttle submission readiness.
+
+</details>
+
+---
+
 <details>
-<summary><b>&nbsp; 01 · 7-Day AMBA Protocol Series</b> &nbsp;—&nbsp; <i>AXI4-Lite · Active Sprint · Nik-Coronics R&D</i></summary>
+<summary><b>&nbsp; 02 · 7-Day AMBA Protocol Series</b> &nbsp;—&nbsp; <i>AXI4-Lite · Active Sprint · Nik-Coronics R&D</i></summary>
 
 <br/>
 
@@ -436,7 +501,7 @@ I/O Design:
 ---
 
 <details>
-<summary><b>&nbsp; 02 · 14-Day RTL-to-DV Development Series</b> &nbsp;—&nbsp; <i>Systematic Architecture Build · Verilog · Xilinx Vivado · FPGA Validated</i></summary>
+<summary><b>&nbsp; 03 · 14-Day RTL-to-DV Development Series</b> &nbsp;—&nbsp; <i>Systematic Architecture Build · Verilog · Xilinx Vivado · FPGA Validated</i></summary>
 
 <br/>
 
@@ -474,7 +539,7 @@ I/O Design:
 ---
 
 <details>
-<summary><b>&nbsp; 03 · Clock Gating Optimization — 61.7% Dynamic Power Reduction</b> &nbsp;—&nbsp; <i>45 nm CMOS · 200 MHz · Published Research · Synopsys PrimeTime PX</i></summary>
+<summary><b>&nbsp; 04 · Clock Gating Optimization — 61.7% Dynamic Power Reduction</b> &nbsp;—&nbsp; <i>45 nm CMOS · 200 MHz · Published Research · Synopsys PrimeTime PX</i></summary>
 
 <br/>
 
@@ -504,7 +569,7 @@ I/O Design:
 ---
 
 <details>
-<summary><b>&nbsp; 04 · Low-Power Flip-Flop Architecture Study — 69% PDP Improvement</b> &nbsp;—&nbsp; <i>28 nm HKMG + 65 nm Bulk CMOS · Near-Threshold Voltage · Published Research</i></summary>
+<summary><b>&nbsp; 05 · Low-Power Flip-Flop Architecture Study — 69% PDP Improvement</b> &nbsp;—&nbsp; <i>28 nm HKMG + 65 nm Bulk CMOS · Near-Threshold Voltage · Published Research</i></summary>
 
 <br/>
 
@@ -525,33 +590,6 @@ I/O Design:
 **Key Result:** ATC-SCDFF delivered PDP = 0.32 fJ — a 69% improvement over conventional transmission-gate baseline — while maintaining timing compliance across all simulated corners at both 28 nm and 65 nm nodes.
 
 **Lessons Learned:** NTV operation fundamentally amplifies architecture-level differences — standard cells become progressively uncompetitive below 400 mV supply. Single-cycle discharge topology in ATC-SCDFF is the architectural reason for its superior switching energy profile.
-
-</details>
-
----
-
-<details>
-<summary><b>&nbsp; 05 · NIK-CORE — 8-bit RISC Processor</b> &nbsp;—&nbsp; <i>Custom ISA · Verilog/SystemVerilog · FPGA Validated · Nik-Coronics R&D</i></summary>
-
-<br/>
-
-```
-┌─ PROCESSOR SPECIFICATION ───────────────────────────────────────────────────┐
-│  Architecture     :  8-bit RISC — Custom Instruction Set Architecture       │
-│  Components       :  ALU · Control Unit · Register File · Instruction Decoder│
-│  HDL              :  Verilog / SystemVerilog                                 │
-│  Validation       :  Full module testbenches + FPGA hardware deployment      │
-│  Organization     :  Nik-Coronics — Independent Hardware R&D Initiative     │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-**Design Objective:** Build a complete RISC processor from custom ISA definition through FPGA hardware validation — covering every stage of the RTL-to-hardware flow without pre-defined IP blocks.
-
-**Architecture Coverage:** 8-bit ALU with arithmetic and logical operations. Custom 8-bit ISA encoding with opcode field allocation. Register file with configurable depth. Control unit FSM managing fetch-decode-execute pipeline. Instruction decoder with complete opcode decoding.
-
-**Verification Approach:** Independent module-level testbenches for ALU, decoder, register file, and control unit. Top-level integration testbench running real instruction sequences. FPGA hardware board validation confirming synthesis-to-bitstream functional correctness across clock frequency sweep.
-
-**Lessons Learned:** ISA design choices directly constrain hardware complexity — opcode field allocation determines decoder logic depth and critical path. Register file bypass logic is critical for data hazard management even in single-cycle pipelines.
 
 </details>
 
@@ -647,11 +685,11 @@ I/O Design:
 
 | # | Repository | Stack | Status |
 |:-:|-----------|-------|--------|
-| 01 | [**7-Day AMBA Protocol Series**](https://github.com/SHIWANK72/7-days--AMBA-Protocol-Series) | Verilog · AXI4-Lite | ✅ Spirit Complete |
-| 02 | [**14-Day RTL-to-DV Series**](https://github.com/SHIWANK72/14-DAYS-DEVELOPMENT-SERIES--RTL-TO-DV-) | Verilog · Vivado | ✅ Complete |
-| 03 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45 nm · PrimeTime PX | ⭐ Published · 61.7% ΔP |
-| 04 | [**Low-Power Flip-Flop Study**](https://github.com/SHIWANK72/Thesis-Low-Power-Flip-Flop-Architectures) | SPICE · 28 nm · 65 nm CMOS | ⭐ Published · 69% PDP |
-| 05 | [**NIK-CORE 8-bit RISC**](https://github.com/SHIWANK72/Project-NIK-CORE) | Verilog/SV · FPGA | ✅ Hardware Validated |
+| 01 | [**NIK-CORE 8-bit RISC — RTL to GDSII**](https://github.com/SHIWANK72/Project-NIK-CORE) | Verilog/SV · OpenLane · Sky130 PDK · Magic · KLayout | ⭐ RTL→GDSII · DRC-Clean |
+| 02 | [**7-Day AMBA Protocol Series**](https://github.com/SHIWANK72/7-days--AMBA-Protocol-Series) | Verilog · AXI4-Lite | ✅ Spirit Complete |
+| 03 | [**14-Day RTL-to-DV Series**](https://github.com/SHIWANK72/14-DAYS-DEVELOPMENT-SERIES--RTL-TO-DV-) | Verilog · Vivado | ✅ Complete |
+| 04 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45 nm · PrimeTime PX | ⭐ Published · 61.7% ΔP |
+| 05 | [**Low-Power Flip-Flop Study**](https://github.com/SHIWANK72/Thesis-Low-Power-Flip-Flop-Architectures) | SPICE · 28 nm · 65 nm CMOS | ⭐ Published · 69% PDP |
 | 06 | [**Verilog 8-bit RISC Processor**](https://github.com/SHIWANK72/Verilog-8-bit-RISC-Processor) | Verilog · Vivado | ✅ FPGA Deployed |
 | 07 | [**6T SRAM Cell Analysis**](https://github.com/SHIWANK72/VLSI-6T-SRAM-Cell-Analysis) | SPICE · BSIM4 | ✅ SNM: 92–108 mV |
 | 08 | [**High-Speed I/O Pad Design**](https://github.com/SHIWANK72/VLSI-High-Speed-IO-Pad-Design) | Cadence Virtuoso | ✅ ESD + SI Analysis |
@@ -683,9 +721,9 @@ I/O Design:
 <div align="center">
 
 ```
-  Diploma EE              B.Tech ECE             VLSI Research          AMBA Sprint
-  Gold Medalist           UIET, KU               Published @ 3 Nodes    AXI4-Lite
-  ─────────────           ──────────             ───────────────────    ──────────
+  Diploma EE              B.Tech ECE             VLSI Research          RTL-to-GDSII
+  Gold Medalist           UIET, KU               Published @ 3 Nodes    NIK-CORE
+  ─────────────           ──────────             ───────────────────    ────────────
         │                      │                         │                   │
         ▼                      ▼                         ▼                   ▼
   ──────●──────────────────────●─────────────────────────●───────────────────●────▶
@@ -695,7 +733,7 @@ I/O Design:
         │    EDA Tools          │   Design Reviews       │  Python · Semi    │
         │    ──────────         │   ─────────────        │  ─────────────    │
         ▼                      ▼                         ▼                   ▼
-  Foundation            Industry Exposure          Production Results  DV Frontier ──▶
+  Foundation            Industry Exposure          Production Results  Physical Design ──▶
   2019–2022             2022–2025                  2024–2025           2025–Now
 ```
 
@@ -783,7 +821,7 @@ I/O Design:
 <!--                  ASIC DESIGN FLOW — ARCHITECTURE                    -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-## `// 10` &nbsp; ASIC Design Flow — Study Architecture
+## `// 10` &nbsp; ASIC Design Flow — RTL to GDSII
 
 <br/>
 
@@ -797,7 +835,7 @@ I/O Design:
 ║   RTL DESIGN                  VERIFICATION                  SYNTHESIS         ║
 ║   ──────────                  ────────────                  ─────────         ║
 ║                                                                               ║
-║   Verilog / SystemVerilog     Functional TB (VCS)           Synopsys DC       ║
+║   Verilog / SystemVerilog     Functional TB (VCS)           Yosys / Synopsys DC║
 ║   ├─ RTL Architecture         ├─ Self-Checking TB           ├─ Constraints    ║
 ║   ├─ Clock Gating (ICG)       ├─ Multi-Corner Sim           ├─ Area / Timing  ║
 ║   ├─ Power Intent             ├─ Directed Stress Test       ├─ Gate-Level NL  ║
@@ -806,11 +844,11 @@ I/O Design:
 ║   STA / TIMING                LOW-POWER                     PHYSICAL DESIGN   ║
 ║   ──────────                  ─────────                     ───────────────   ║
 ║                                                                               ║
-║   Synopsys PrimeTime PX       Clock Gating — 61.7% ΔP       Floorplanning     ║
-║   ├─ Setup / Hold Margins     Power Gating                   Placement & Route ║
-║   ├─ Clock Tree Analysis      Multi-VTH Optimization         CTS               ║
-║   ├─ Power Analysis           NTV Design (28/65 nm)          DRC / LVS        ║
-║   └─ Timing Closure           ATC-SCDFF — 69% PDP           Signoff           ║
+║   Synopsys PrimeTime PX       Clock Gating — 61.7% ΔP       OpenLane · Sky130A║
+║   ├─ Setup / Hold Margins     Power Gating                   Floorplan · Place║
+║   ├─ Clock Tree Analysis      Multi-VTH Optimization         CTS · Route      ║
+║   ├─ Power Analysis           NTV Design (28/65 nm)          DRC-Clean · GDSII║
+║   └─ Timing Closure           ATC-SCDFF — 69% PDP           LVS Signoff (WIP) ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -987,8 +1025,8 @@ Panchkula, Haryana, India
 
 ```
 Open to opportunities in:
-VLSI Design  ·  Design Verification  ·  RTL Engineering  ·  Physical Design
-FPGA Development  ·  Semiconductor R&D  ·  STA / Timing Analysis
+VLSI Design  ·  Physical Design (RTL to GDSII)  ·  Design Verification
+RTL Engineering  ·  FPGA Development  ·  Semiconductor R&D  ·  STA / Timing Analysis
 Hardware Testing  ·  ASIC Verification  ·  Global Relocation Ready ✓
 ```
 
