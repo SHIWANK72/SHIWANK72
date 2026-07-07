@@ -912,14 +912,7 @@ Signoff:
 
 <div align="center">
 
-<a href="https://github.com/SHIWANK72">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SHIWANK72&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=4a9eba&ring_color=00e5ff&custom_title=Contribution+Overview" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/SHIWANK72">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWANK72&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=4a9eba&custom_title=Primary+Languages" alt="Top Languages"/>
-</a>
-
+<img width="100%" src="./github-metrics.svg" alt="GitHub Metrics"/>
 </div>
 
 <br/>
