@@ -927,7 +927,7 @@ Signoff:
 <div align="center">
 
 <a href="https://github.com/SHIWANK72">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIWANK72&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=4a9eba&dates=4a9eba&stroke=161b22&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+  <img width="68%" src="./profile/streak.svg" alt="GitHub Streak"/>
 </a>
 
 </div>
