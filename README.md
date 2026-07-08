@@ -688,7 +688,7 @@ Signoff:
 | 01 | [**NIK-CORE 8-bit RISC — RTL to GDSII**](https://github.com/SHIWANK72/Project-NIK-CORE) | Verilog/SV · OpenLane · Sky130 PDK · Magic · KLayout | ⭐ RTL→GDSII · DRC-Clean |
 | 02 | [**7-Day AMBA Protocol Series**](https://github.com/SHIWANK72/7-days--AMBA-Protocol-Series) | Verilog · AXI4-Lite | ✅ Spirit Complete |
 | 03 | [**14-Day RTL-to-DV Series**](https://github.com/SHIWANK72/14-DAYS-DEVELOPMENT-SERIES--RTL-TO-DV-) | Verilog · Vivado | ✅ Complete |
-| 04 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45 nm · PrimeTime PX | ⭐ Published · 61.7% ΔP |
+| 04 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45 nm · PrimeTime PX | ⭐ In Progress · 61.7% ΔP |
 | 05 | [**Low-Power Flip-Flop Study**](https://github.com/SHIWANK72/Thesis-Low-Power-Flip-Flop-Architectures) | SPICE · 28 nm · 65 nm CMOS | ⭐ Published · 69% PDP |
 | 06 | [**Verilog 8-bit RISC Processor**](https://github.com/SHIWANK72/Verilog-8-bit-RISC-Processor) | Verilog · Vivado | ✅ FPGA Deployed |
 | 07 | [**6T SRAM Cell Analysis**](https://github.com/SHIWANK72/VLSI-6T-SRAM-Cell-Analysis) | SPICE · BSIM4 | ✅ SNM: 92–108 mV |
