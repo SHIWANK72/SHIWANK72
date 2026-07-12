@@ -1008,7 +1008,7 @@ Signoff:
 <td align="center" width="25%">
 
 **`LOCATION`**<br/>
-Panchkula, Haryana, India
+Panchkula, Haryana, Ind
 
 </td>
 </tr>
