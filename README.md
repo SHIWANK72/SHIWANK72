@@ -692,7 +692,7 @@ Signoff:
 | 05 | [**Low-Power Flip-Flop Study**](https://github.com/SHIWANK72/Thesis-Low-Power-Flip-Flop-Architectures) | SPICE · 28 nm · 65 nm CMOS | ⭐ Published · 69% PDP |
 | 06 | [**Verilog 8-bit RISC Processor**](https://github.com/SHIWANK72/Verilog-8-bit-RISC-Processor) | Verilog · Vivado | ✅ FPGA Deployed |
 | 07 | [**6T SRAM Cell Analysis**](https://github.com/SHIWANK72/VLSI-6T-SRAM-Cell-Analysis) | SPICE · BSIM4 | ✅ SNM: 92–108 mV |
-| 08 | [**High-Speed I/O Pad Design**](https://github.com/SHIWANK72/VLSI-High-Speed-IO-Pad-Design) | LTSoice 26.0.2.1 | ✅ Again from scratch |
+| 08 | [**High-Speed I/O Pad Design**](https://github.com/SHIWANK72/VLSI-High-Speed-IO-Pad-Design) | LTSpice 26.0.2.1 |  Again from scratch |
 | 09 | [**Smart Coach AI App**](https://github.com/SHIWANK72/My-Super-Coach) | React · Firebase · Gemini API | ✅ Deployed + APK |
 | 10 | [**EV Regenerative Braking**](https://github.com/SHIWANK72/Innovation-EV-Regenerative-Braking) | Embedded C · Hardware | ✅ Hardware Prototype |
 | 11 | [**3D Portfolio Website**](https://github.com/SHIWANK72/3d-portfolio) | React · TypeScript · Three.js | ✅ Live |
