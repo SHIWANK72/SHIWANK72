@@ -472,9 +472,34 @@ Signoff:
 </details>
 
 ---
+---
 
 <details>
-<summary><b>&nbsp; 02 · 7-Day AMBA Protocol Series</b> &nbsp;—&nbsp; <i>AXI4-Lite · Active Sprint · Nik-Coronics R&D</i></summary>
+<summary><b>&nbsp; 02 · High-Speed Digital I/O Pad Design</b> &nbsp;—&nbsp; <i> LTSpice 26.0.2.1 · ESD Protection · Signal Integrity · Parasitic Extraction</i></summary>
+
+<br/>
+
+```
+┌─ DESIGN SPECIFICATION ──────────────────────────────────────────────────────┐
+│  Tool             :  LTSpice 26.0.2.1 — Full-Custom Layout & Simulation     │
+│  Protection       :  Integrated ESD clamp structures                        │
+│  Analysis         :  Post-layout parasitic extraction · SI characterization  │
+│  Frequency        :  High-speed switching behavior profiled                  │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+**Design Objective:** Design and verify a high-speed CMOS digital I/O pad capable of robust operation under high-frequency switching — maintaining ESD protection compliance and signal integrity simultaneously(from scratch).
+
+**Engineering Constraints:** ESD clamp placement must not degrade switching speed below specification. Post-layout parasitic capacitance must be extracted and its frequency impact quantified. Output driver sizing must balance rise/fall time against power dissipation limits.
+
+**Lessons Learned:** I/O pad layout parasitics are not secondary — capacitive loading from ESD structures directly limits maximum operating frequency. Latch-up susceptibility in ESD cells requires careful well-tie and guard ring placement verified under high-current stimulus.
+
+</details>
+
+---
+
+<details>
+<summary><b>&nbsp; 03 · 7-Day AMBA Protocol Series</b> &nbsp;—&nbsp; <i>AXI4-Lite · Active Sprint · Nik-Coronics R&D</i></summary>
 
 <br/>
 
@@ -501,7 +526,7 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 03 · 14-Day RTL-to-DV Development Series</b> &nbsp;—&nbsp; <i>Systematic Architecture Build · Verilog · Xilinx Vivado · FPGA Validated</i></summary>
+<summary><b>&nbsp; 04 · 14-Day RTL-to-DV Development Series</b> &nbsp;—&nbsp; <i>Systematic Architecture Build · Verilog · Xilinx Vivado · FPGA Validated</i></summary>
 
 <br/>
 
@@ -539,7 +564,7 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 04 · Clock Gating Optimization — 61.7% Dynamic Power Reduction</b> &nbsp;—&nbsp; <i>45 nm CMOS · 200 MHz · Published Research · Synopsys PrimeTime PX</i></summary>
+<summary><b>&nbsp; 05 · Clock Gating Optimization — 61.7% Dynamic Power Reduction</b> &nbsp;—&nbsp; <i>45 nm CMOS · 200 MHz · Published Research · Synopsys PrimeTime PX</i></summary>
 
 <br/>
 
@@ -569,7 +594,7 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 05 · Low-Power Flip-Flop Architecture Study — 69% PDP Improvement</b> &nbsp;—&nbsp; <i>28 nm HKMG + 65 nm Bulk CMOS · Near-Threshold Voltage · Published Research</i></summary>
+<summary><b>&nbsp; 06 · Low-Power Flip-Flop Architecture Study — 69% PDP Improvement</b> &nbsp;—&nbsp; <i>28 nm HKMG + 65 nm Bulk CMOS · Near-Threshold Voltage · Published Research</i></summary>
 
 <br/>
 
@@ -596,7 +621,7 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 06 · 6T SRAM Cell Design & SPICE Characterization</b> &nbsp;—&nbsp; <i>Full-Custom · BSIM4 · Multi-Corner · SNM 92–108 mV</i></summary>
+<summary><b>&nbsp; 07 · 6T SRAM Cell Design & SPICE Characterization</b> &nbsp;—&nbsp; <i>Full-Custom · BSIM4 · Multi-Corner · SNM 92–108 mV</i></summary>
 
 <br/>
 
@@ -621,7 +646,7 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 07 · High-Speed Digital I/O Pad Design</b> &nbsp;—&nbsp; <i>Cadence Virtuoso · ESD Protection · Signal Integrity · Parasitic Extraction</i></summary>
+<summary><b>&nbsp; 08 · High-Speed Digital I/O Pad Design</b> &nbsp;—&nbsp; <i>Cadence Virtuoso · ESD Protection · Signal Integrity · Parasitic Extraction</i></summary>
 
 <br/>
 
@@ -645,7 +670,7 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 08 · Smart Coach — AI-Powered Web Application</b> &nbsp;—&nbsp; <i>React · Firebase · Gemini API · Full-Stack · Android APK</i></summary>
+<summary><b>&nbsp; 09 · Smart Coach — AI-Powered Web Application</b> &nbsp;—&nbsp; <i>React · Firebase · Gemini API · Full-Stack · Android APK</i></summary>
 
 <br/>
 
