@@ -4,9 +4,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1220,50:06101a,75:080e1c,100:0d1117&height=240&section=header&text=SHIWANK%20GUPTA&fontSize=62&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=VLSI%20Design%20Engineer%20%20·%20%20RTL%20to%20GDSII%20%20·%20%20Low-Power%20CMOS%20%20·%20%20FPGA%20and%20ASIC&descSize=13&descColor=4a9eba&descAlignY=62&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a1220,50:06101a,75:080e1c,100:0d1117&height=240&section=header&text=SHIWANK%20GUPTA&fontSize=62&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=VLSI%20Design%20Engineer%20%20·%20%20RTL%20to%20GDSII%20%20·%20%20Low-Power%20CMOS%20%20·%20%20FPGA%20and%20ASIC&descSize=13&descColor=d9a06b&descAlignY=62&descAlign=50&animation=fadeIn"/>
 
 </div>
+
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--                      TYPING ANIMATION                                -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
@@ -14,7 +15,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=820&height=34&lines=VLSI+Design+Engineer+%7C+RTL+%E2%86%92+Synthesis+%E2%86%92+STA+%E2%86%92+Tapeout;RTL-to-GDSII+Flow+Complete+%E2%80%94+NIK-CORE+%7C+OpenLane+%2B+Sky130+PDK;61.7%25+Dynamic+Power+Reduction+%40+45+nm+CMOS+%7C+Published+Research;7-Day+AMBA+Protocol+Sprint+%E2%80%94+AXI4-Lite+%7C+ACTIVE;Design+Verification+%7C+STA+%7C+Timing+Closure+%7C+DRC%2FLVS;Low-Power+CMOS+%7C+Clock+Gating+(ICG)+%7C+NTV+Design;Gold+Medalist+%7C+Lean+Six+Sigma+AI+YB+%7C+Global+Relocation+Ready" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=820&height=34&lines=VLSI+Design+Engineer+%7C+RTL+%E2%86%92+Synthesis+%E2%86%92+STA+%E2%86%92+Tapeout;RTL-to-GDSII+Flow+Complete+%E2%80%94+NIK-CORE+%7C+OpenLane+%2B+Sky130;61.7%25+Dynamic+Power+Reduction+%40+45+nm+CMOS+%7C+Published+Research;7-Day+AMBA+Protocol+Sprint+%E2%80%94+AXI4-Lite+%7C+ACTIVE;Design+Verification+%7C+STA+%7C+Timing+Closure+%7C+DRC%2FLVS;Low-Power+CMOS+%7C+Clock+Gating+(ICG)+%7C+NTV+Design;Gold+Medalist+%7C+Lean+Six+Sigma+AI+YB+%7C+Global+Relocation+Ready" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -46,7 +47,7 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED DIVIDER                                  -->
+<!--                    SILICON TRACE DIVIDER (light)                     -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -68,8 +69,8 @@
 │   ◈  DISCIPLINE        VLSI Design · Design Verification · Low-Power CMOS      │
 │   ◈  SPECIALIZATION    RTL Engineering · Digital ASIC Flow · Physical Design   │
 │   ◈  ACADEMIC          B.Tech — Electronics & Communication Engineering         │
-│                         UIET, Kurukshetra University |                          │
-│   ◈  DIPLOMA           Electrical Engineering — Gold Medalist |                 │
+│                         UIET, Kurukshetra University                           │
+│   ◈  DIPLOMA           Electrical Engineering — Gold Medalist                  │
 │                                                                                 │
 │   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
 │                                                                                 │
@@ -196,12 +197,6 @@ Signoff:
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
 <br/>
 
@@ -475,20 +470,20 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 02 · High-Speed Digital I/O Pad Design</b> &nbsp;—&nbsp; <i> LTSpice 26.0.2.1 · ESD Protection · Signal Integrity · Parasitic Extraction</i></summary>
+<summary><b>&nbsp; 02 · High-Speed Digital I/O Pad Design</b> &nbsp;—&nbsp; <i>Cadence Virtuoso · LTSpice · ESD Protection · Signal Integrity · Parasitic Extraction</i></summary>
 
 <br/>
 
 ```
 ┌─ DESIGN SPECIFICATION ──────────────────────────────────────────────────────┐
-│  Tool             :  LTSpice 26.0.2.1 — Full-Custom Layout & Simulation     │
+│  Tools            :  Cadence Virtuoso (full-custom layout) · LTSpice (sim) │
 │  Protection       :  Integrated ESD clamp structures                        │
 │  Analysis         :  Post-layout parasitic extraction · SI characterization  │
 │  Frequency        :  High-speed switching behavior profiled                  │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-**Design Objective:** Design and verify a high-speed CMOS digital I/O pad capable of robust operation under high-frequency switching — maintaining ESD protection compliance and signal integrity simultaneously(from scratch).
+**Design Objective:** Design and verify a high-speed CMOS digital I/O pad capable of robust operation under high-frequency switching — maintaining ESD protection compliance and signal integrity simultaneously, built from scratch.
 
 **Engineering Constraints:** ESD clamp placement must not degrade switching speed below specification. Post-layout parasitic capacitance must be extracted and its frequency impact quantified. Output driver sizing must balance rise/fall time against power dissipation limits.
 
@@ -646,31 +641,7 @@ Signoff:
 ---
 
 <details>
-<summary><b>&nbsp; 08 · High-Speed Digital I/O Pad Design</b> &nbsp;—&nbsp; <i>Cadence Virtuoso · ESD Protection · Signal Integrity · Parasitic Extraction</i></summary>
-
-<br/>
-
-```
-┌─ DESIGN SPECIFICATION ──────────────────────────────────────────────────────┐
-│  Tool             :  Cadence Virtuoso — Full-Custom Layout & Simulation     │
-│  Protection       :  Integrated ESD clamp structures                        │
-│  Analysis         :  Post-layout parasitic extraction · SI characterization  │
-│  Frequency        :  High-speed switching behavior profiled                  │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-**Design Objective:** Design and verify a high-speed CMOS digital I/O pad capable of robust operation under high-frequency switching — maintaining ESD protection compliance and signal integrity simultaneously.
-
-**Engineering Constraints:** ESD clamp placement must not degrade switching speed below specification. Post-layout parasitic capacitance must be extracted and its frequency impact quantified. Output driver sizing must balance rise/fall time against power dissipation limits.
-
-**Lessons Learned:** I/O pad layout parasitics are not secondary — capacitive loading from ESD structures directly limits maximum operating frequency. Latch-up susceptibility in ESD cells requires careful well-tie and guard ring placement verified under high-current stimulus.
-
-</details>
-
----
-
-<details>
-<summary><b>&nbsp; 09 · Smart Coach — AI-Powered Web Application</b> &nbsp;—&nbsp; <i>React · Firebase · Gemini API · Full-Stack · Android APK</i></summary>
+<summary><b>&nbsp; 08 · Smart Coach — AI-Powered Web Application</b> &nbsp;—&nbsp; <i>React · Firebase · Gemini API · Full-Stack · Android APK</i></summary>
 
 <br/>
 
@@ -711,13 +682,13 @@ Signoff:
 | # | Repository | Stack | Status |
 |:-:|-----------|-------|--------|
 | 01 | [**NIK-CORE 8-bit RISC — RTL to GDSII**](https://github.com/SHIWANK72/Project-NIK-CORE) | Verilog/SV · OpenLane · Sky130 PDK · Magic · KLayout | ⭐ RTL→GDSII · DRC-Clean |
-| 02 | [**7-Day AMBA Protocol Series**](https://github.com/SHIWANK72/7-days--AMBA-Protocol-Series) | Verilog · AXI4-Lite | ✅ Spirit Complete |
+| 02 | [**7-Day AMBA Protocol Series**](https://github.com/SHIWANK72/7-days--AMBA-Protocol-Series) | Verilog · AXI4-Lite | ✅ Sprint Complete |
 | 03 | [**14-Day RTL-to-DV Series**](https://github.com/SHIWANK72/14-DAYS-DEVELOPMENT-SERIES--RTL-TO-DV-) | Verilog · Vivado | ✅ Complete |
-| 04 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45 nm · PrimeTime PX | ⭐ In Progress · 61.7% ΔP |
+| 04 | [**Clock Gating Optimization**](https://github.com/SHIWANK72/Thesis-VLSI-Clock-Gating-Techniques) | Verilog · 45 nm · PrimeTime PX | ⭐ Published · 61.7% ΔP |
 | 05 | [**Low-Power Flip-Flop Study**](https://github.com/SHIWANK72/Thesis-Low-Power-Flip-Flop-Architectures) | SPICE · 28 nm · 65 nm CMOS | ⭐ Published · 69% PDP |
 | 06 | [**Verilog 8-bit RISC Processor**](https://github.com/SHIWANK72/Verilog-8-bit-RISC-Processor) | Verilog · Vivado | ✅ FPGA Deployed |
 | 07 | [**6T SRAM Cell Analysis**](https://github.com/SHIWANK72/VLSI-6T-SRAM-Cell-Analysis) | SPICE · BSIM4 | ✅ SNM: 92–108 mV |
-| 08 | [**High-Speed I/O Pad Design**](https://github.com/SHIWANK72/VLSI-High-Speed-IO-Pad-Design) | LTSpice 26.0.2.1 |  Again from scratch |
+| 08 | [**High-Speed I/O Pad Design**](https://github.com/SHIWANK72/VLSI-High-Speed-IO-Pad-Design) | Cadence Virtuoso · LTSpice | ✅ Complete |
 | 09 | [**Smart Coach AI App**](https://github.com/SHIWANK72/My-Super-Coach) | React · Firebase · Gemini API | ✅ Deployed + APK |
 | 10 | [**EV Regenerative Braking**](https://github.com/SHIWANK72/Innovation-EV-Regenerative-Braking) | Embedded C · Hardware | ✅ Hardware Prototype |
 | 11 | [**3D Portfolio Website**](https://github.com/SHIWANK72/3d-portfolio) | React · TypeScript · Three.js | ✅ Live |
@@ -1033,7 +1004,7 @@ Signoff:
 <td align="center" width="25%">
 
 **`LOCATION`**<br/>
-Panchkula, Haryana, Ind
+Panchkula, Haryana, India
 
 </td>
 </tr>
@@ -1060,4 +1031,4 @@ Hardware Testing  ·  ASIC Verification  ·  Global Relocation Ready ✓
 <!--                      FOOTER BANNER                                   -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1220,70:06101a,100:0d1117&height=140&section=footer&text=From%20RTL%20to%20Tapeout%20%E2%80%94%20building%20silicon%20from%20logic%20gates%20to%20full%20ASIC%20flow.&fontSize=14&fontColor=4a9eba&fontAlignY=52&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1220,70:06101a,100:0d1117&height=140&section=footer&text=From%20RTL%20to%20Tapeout%20%E2%80%94%20building%20silicon%20from%20logic%20gates%20to%20full%20ASIC%20flow.&fontSize=14&fontColor=d9a06b&fontAlignY=52&animation=fadeIn"/>
