@@ -573,6 +573,8 @@ Full Custom Layout
 | 14 | [**3-Phase Instrumentation Panel**](https://github.com/SHIWANK72/Hardware-3-Phase-Instrumentation-Panel) | Hardware | ✅ Built & Tested |
 | 15 | [**AC-to-Variable DC Converter**](https://github.com/SHIWANK72/Hardware-AC-to-Variable-DC-Converter) | Hardware · LM317 | ✅ Complete |
 | 16 | [**Portfolio Website**](https://github.com/SHIWANK72/SHIWANK72.github.io) | HTML · CSS | ✅ Live |
+| 17 | [**Hybrid CNN-GNN ShiftLeft DTCO**](https://github.com/SHIWANK72/Hybrid-CNN-GNN-ShiftLeft-DTCO) | Python · Apache 2.0 | 🔄 Active Development |
+| 18 | [**Adv. ATMP — RTL to Packaging with DFT**](https://github.com/SHIWANK72/Research-on-ADV.-ATMP---RTL-TO-PACKAGING---WITH-DFT) | Research · DFT | 🔄 In Progress |
 
 <div align="center">
 <img src="./waveform-divider.svg" width="100%"/>
@@ -740,14 +742,18 @@ Full Custom Layout
 <br/>
 
 <div align="center">
-<img width="100%" src="./github-metrics.svg" alt="GitHub Metrics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SHIWANK72&show_icons=true&count_private=true&hide_border=true&bg_color=05070a&title_color=39ff88&icon_color=ffb000&text_color=c9d1d9&ring_color=39ff88" alt="GitHub Stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWANK72&layout=compact&hide_border=true&bg_color=05070a&title_color=39ff88&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 <a href="https://github.com/SHIWANK72">
-  <img width="68%" src="./profile/streak.svg" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SHIWANK72&hide_border=true&background=05070a&border=142b1c&stroke=142b1c&ring=39ff88&fire=ffb000&currStreakLabel=39ff88&sideLabels=c9d1d9&dates=5c6773&currStreakNum=39ff88&sideNums=c9d1d9" alt="GitHub Streak"/>
 </a>
 </div>
 
@@ -762,7 +768,7 @@ Full Custom Layout
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=SHIWANK72&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SHIWANK72&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
