@@ -1,0 +1,63 @@
+<svg viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="chipbody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12151a"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </linearGradient>
+    <linearGradient id="pin" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8860b"/>
+      <stop offset="50%" stop-color="#e8c468"/>
+      <stop offset="100%" stop-color="#b8860b"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="230" fill="#05070a"/>
+
+  <!-- pins: left -->
+  <g fill="url(#pin)">
+    <rect x="150" y="38"  width="30" height="6"/>
+    <rect x="150" y="64"  width="30" height="6"/>
+    <rect x="150" y="90"  width="30" height="6"/>
+    <rect x="150" y="116" width="30" height="6"/>
+    <rect x="150" y="142" width="30" height="6"/>
+    <rect x="150" y="168" width="30" height="6"/>
+    <rect x="150" y="194" width="30" height="6"/>
+  </g>
+  <!-- pins: right -->
+  <g fill="url(#pin)">
+    <rect x="720" y="38"  width="30" height="6"/>
+    <rect x="720" y="64"  width="30" height="6"/>
+    <rect x="720" y="90"  width="30" height="6"/>
+    <rect x="720" y="116" width="30" height="6"/>
+    <rect x="720" y="142" width="30" height="6"/>
+    <rect x="720" y="168" width="30" height="6"/>
+    <rect x="720" y="194" width="30" height="6"/>
+  </g>
+
+  <!-- chip body -->
+  <rect x="180" y="18" width="540" height="196" rx="6" fill="url(#chipbody)" stroke="#2b3138" stroke-width="1.5"/>
+
+  <!-- pin-1 notch -->
+  <path d="M 415 18 A 35 35 0 0 0 485 18 Z" fill="#05070a" stroke="#2b3138" stroke-width="1.5"/>
+
+  <!-- silkscreen: part number / name -->
+  <text x="450" y="105" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="34" fill="#39ff88" filter="url(#glow)" font-weight="700" letter-spacing="3">SHIWANK·GUPTA</text>
+
+  <text x="450" y="135" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ffb000" letter-spacing="2">VLSI-ENGR // RTL-GDSII // LOW-PWR-CMOS</text>
+
+  <text x="450" y="165" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#5c6773" letter-spacing="4">SKY130A · OPENLANE · SYNOPSYS · CADENCE</text>
+
+  <!-- corner batch marking -->
+  <text x="205" y="195" font-family="JetBrains Mono, monospace" font-size="9" fill="#39ff88" opacity="0.7">S72</text>
+  <text x="660" y="195" font-family="JetBrains Mono, monospace" font-size="9" fill="#39ff88" opacity="0.7">R1.0</text>
+
+  <!-- tiny ground/logo mark -->
+  <circle cx="450" cy="45" r="3" fill="#39ff88" opacity="0.85"/>
+</svg>
