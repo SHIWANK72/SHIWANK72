@@ -749,9 +749,11 @@ Full Custom Layout
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SHIWANK72&show_icons=true&count_private=true&hide_border=true&bg_color=05070a&title_color=39ff88&icon_color=ffb000&text_color=c9d1d9&ring_color=39ff88" alt="GitHub Stats"/>
+<!-- Generated via a jstrieb/github-stats Action fork — see setup notes below.
+     Until the Action has been run once, these two lines will 404; that's expected. -->
+<img height="200" src="https://github.com/SHIWANK72/github-stats/blob/generated/overview.svg" alt="GitHub Stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIWANK72&layout=compact&hide_border=true&bg_color=05070a&title_color=39ff88&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img height="200" src="https://github.com/SHIWANK72/github-stats/blob/generated/languages.svg" alt="Top Languages"/>
 
 </div>
 
@@ -773,8 +775,16 @@ Full Custom Layout
 
 <br/>
 
+<!-- Static badges instead of a live trophy render — zero external API calls, never breaks.
+     Edit this row any time you earn a new one. -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SHIWANK72&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies"/>
+
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-05070a?style=for-the-badge&labelColor=05070a&color=142b1c"/>
+<img src="https://img.shields.io/badge/⚡_Quickdraw-05070a?style=for-the-badge&labelColor=05070a&color=142b1c"/>
+<img src="https://img.shields.io/badge/🎯_YOLO-05070a?style=for-the-badge&labelColor=05070a&color=142b1c"/>
+<img src="https://img.shields.io/badge/🧠_Galaxy_Brain-05070a?style=for-the-badge&labelColor=05070a&color=1a1f26"/>
+<img src="https://img.shields.io/badge/⭐_Starstruck-05070a?style=for-the-badge&labelColor=05070a&color=1a1f26"/>
+
 </div>
 
 <div align="center">
