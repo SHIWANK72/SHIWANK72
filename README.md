@@ -25,6 +25,12 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="./stats-ticker.svg" width="100%" alt="Key results ticker"/>
+</div>
+
 <div align="center">
 <img src="./waveform-divider.svg" width="100%"/>
 </div>
