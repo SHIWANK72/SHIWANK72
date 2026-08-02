@@ -10,7 +10,7 @@
 
   <rect width="1200" height="70" fill="#05070a"/>
 
-  <!-- graticule -->
+  <!-- graticule, subtle flicker -->
   <g stroke="#1a2b22" stroke-width="1">
     <line x1="0" y1="14" x2="1200" y2="14"/>
     <line x1="0" y1="35" x2="1200" y2="35"/>
@@ -21,16 +21,17 @@
     <line x1="700" y1="0" x2="700" y2="70"/>
     <line x1="900" y1="0" x2="900" y2="70"/>
     <line x1="1100" y1="0" x2="1100" y2="70"/>
+    <animate attributeName="stroke" values="#1a2b22;#24382c;#1a2b22" dur="4s" repeatCount="indefinite"/>
   </g>
 
-  <!-- clock / square wave morphing into sine, left half digital right half analog -->
-  <path d="M0,35 L80,35 L80,14 L160,14 L160,56 L240,56 L240,14 L320,14 L320,56 L400,56 L400,35
+  <!-- digital-to-analog trace -->
+  <path id="wavepath" d="M0,35 L80,35 L80,14 L160,14 L160,56 L240,56 L240,14 L320,14 L320,56 L400,56 L400,35
            C 440,35 460,14 500,14 C 540,14 560,56 600,56
            C 640,56 660,14 700,14 C 740,14 760,56 800,56
            C 840,56 860,14 900,14 C 940,14 960,56 1000,56 L1200,35"
         fill="none" stroke="url(#fade)" stroke-width="2"/>
 
-  <!-- via dots along the trace -->
+  <!-- via dots -->
   <g fill="#39ff88">
     <circle cx="160" cy="14" r="2"/>
     <circle cx="240" cy="56" r="2"/>
@@ -39,4 +40,21 @@
     <circle cx="700" cy="14" r="2"/>
     <circle cx="900" cy="14" r="2"/>
   </g>
+
+  <!-- traveling pulse riding the trace, left to right, looping -->
+  <circle r="4" fill="#ffb000">
+    <animateMotion dur="4.5s" repeatCount="indefinite"
+      path="M0,35 L80,35 L80,14 L160,14 L160,56 L240,56 L240,14 L320,14 L320,56 L400,56 L400,35
+           C 440,35 460,14 500,14 C 540,14 560,56 600,56
+           C 640,56 660,14 700,14 C 740,14 760,56 800,56
+           C 840,56 860,14 900,14 C 940,14 960,56 1000,56 L1200,35"/>
+    <animate attributeName="r" values="3;5;3" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#39ff88" opacity="0.75">
+    <animateMotion dur="4.5s" begin="2.25s" repeatCount="indefinite"
+      path="M0,35 L80,35 L80,14 L160,14 L160,56 L240,56 L240,14 L320,14 L320,56 L400,56 L400,35
+           C 440,35 460,14 500,14 C 540,14 560,56 600,56
+           C 640,56 660,14 700,14 C 740,14 760,56 800,56
+           C 840,56 860,14 900,14 C 940,14 960,56 1000,56 L1200,35"/>
+  </circle>
 </svg>

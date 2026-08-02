@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1200 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="46"/>
+    </clipPath>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#05070a" stop-opacity="1"/>
+      <stop offset="6%" stop-color="#05070a" stop-opacity="0"/>
+      <stop offset="94%" stop-color="#05070a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#05070a" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="46" fill="#05070a"/>
+  <rect y="0" width="1200" height="1" fill="#1f3d2a"/>
+  <rect y="45" width="1200" height="1" fill="#1f3d2a"/>
+
+  <g clip-path="url(#clip)">
+    <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#39ff88">
+      <g>
+        <text x="0" y="29">▸ NIK-CORE: RTL→GDSII COMPLETE &#160;&#160;•&#160;&#160; <tspan fill="#ffb000">DRC-CLEAN ROUTING</tspan> &#160;&#160;•&#160;&#160; <tspan fill="#39ff88">61.7% DYNAMIC POWER REDUCTION</tspan> @ 45nm &#160;&#160;•&#160;&#160; <tspan fill="#ffb000">69% PDP IMPROVEMENT</tspan> (ATC-SCDFF) &#160;&#160;•&#160;&#160; SNM 92–108 mV (6T SRAM) &#160;&#160;•&#160;&#160; MAX FREQ ~90.9 MHz &#160;&#160;•&#160;&#160; AXI4-LITE SPRINT: ACTIVE &#160;&#160;•&#160;&#160;</text>
+        <text x="1850" y="29">▸ NIK-CORE: RTL→GDSII COMPLETE &#160;&#160;•&#160;&#160; <tspan fill="#ffb000">DRC-CLEAN ROUTING</tspan> &#160;&#160;•&#160;&#160; <tspan fill="#39ff88">61.7% DYNAMIC POWER REDUCTION</tspan> @ 45nm &#160;&#160;•&#160;&#160; <tspan fill="#ffb000">69% PDP IMPROVEMENT</tspan> (ATC-SCDFF) &#160;&#160;•&#160;&#160; SNM 92–108 mV (6T SRAM) &#160;&#160;•&#160;&#160; MAX FREQ ~90.9 MHz &#160;&#160;•&#160;&#160; AXI4-LITE SPRINT: ACTIVE &#160;&#160;•&#160;&#160;</text>
+      </g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,0" to="-1850,0" dur="22s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <rect width="1200" height="46" fill="url(#edge)"/>
+</svg>

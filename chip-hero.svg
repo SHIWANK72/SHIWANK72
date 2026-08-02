@@ -9,8 +9,13 @@
       <stop offset="50%" stop-color="#e8c468"/>
       <stop offset="100%" stop-color="#b8860b"/>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#39ff88" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39ff88" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#39ff88" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -19,6 +24,56 @@
   </defs>
 
   <rect width="900" height="230" fill="#05070a"/>
+
+  <!-- long fan-out traces left -->
+  <g stroke="url(#trace)" stroke-width="1.1" fill="none">
+    <path id="tL1" d="M180,45 L100,45 L40,20"/>
+    <path id="tL2" d="M180,80 L120,80 L40,70"/>
+    <path id="tL3" d="M180,150 L120,150 L40,160"/>
+    <path id="tL4" d="M180,185 L100,185 L40,210"/>
+  </g>
+  <!-- long fan-out traces right -->
+  <g stroke="url(#trace)" stroke-width="1.1" fill="none">
+    <path id="tR1" d="M720,45 L800,45 L860,20"/>
+    <path id="tR2" d="M720,80 L780,80 L860,70"/>
+    <path id="tR3" d="M720,150 L780,150 L860,160"/>
+    <path id="tR4" d="M720,185 L800,185 L860,210"/>
+  </g>
+
+  <!-- traveling signal pulses along traces -->
+  <circle r="2.6" fill="#39ff88">
+    <animateMotion dur="2.2s" repeatCount="indefinite" path="M180,45 L100,45 L40,20"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#ffb000">
+    <animateMotion dur="2.6s" begin="0.4s" repeatCount="indefinite" path="M180,80 L120,80 L40,70"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#39ff88">
+    <animateMotion dur="2.4s" begin="0.9s" repeatCount="indefinite" path="M180,150 L120,150 L40,160"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#ffb000">
+    <animateMotion dur="2.1s" begin="1.3s" repeatCount="indefinite" path="M180,185 L100,185 L40,210"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.1s" begin="1.3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle r="2.6" fill="#ffb000">
+    <animateMotion dur="2.3s" begin="0.2s" repeatCount="indefinite" path="M720,45 L800,45 L860,20"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.3s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#39ff88">
+    <animateMotion dur="2.5s" begin="0.7s" repeatCount="indefinite" path="M720,80 L780,80 L860,70"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.5s" begin="0.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#ffb000">
+    <animateMotion dur="2.2s" begin="1.1s" repeatCount="indefinite" path="M720,150 L780,150 L860,160"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.2s" begin="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#39ff88">
+    <animateMotion dur="2.7s" begin="1.5s" repeatCount="indefinite" path="M720,185 L800,185 L860,210"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.7s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
 
   <!-- pins: left -->
   <g fill="url(#pin)">
@@ -41,14 +96,19 @@
     <rect x="720" y="194" width="30" height="6"/>
   </g>
 
-  <!-- chip body -->
-  <rect x="180" y="18" width="540" height="196" rx="6" fill="url(#chipbody)" stroke="#2b3138" stroke-width="1.5"/>
+  <!-- chip body with breathing glow outline -->
+  <rect x="180" y="18" width="540" height="196" rx="6" fill="url(#chipbody)" stroke="#39ff88" stroke-width="1.4" opacity="0.9">
+    <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
 
   <!-- pin-1 notch -->
   <path d="M 415 18 A 35 35 0 0 0 485 18 Z" fill="#05070a" stroke="#2b3138" stroke-width="1.5"/>
 
-  <!-- silkscreen: part number / name -->
-  <text x="450" y="105" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="34" fill="#39ff88" filter="url(#glow)" font-weight="700" letter-spacing="3">SHIWANK·GUPTA</text>
+  <!-- silkscreen: part number / name, breathing glow -->
+  <text x="450" y="105" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="34" fill="#39ff88" filter="url(#glow)" font-weight="700" letter-spacing="3">
+    SHIWANK·GUPTA
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3.2s" repeatCount="indefinite"/>
+  </text>
 
   <text x="450" y="135" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ffb000" letter-spacing="2">VLSI-ENGR // RTL-GDSII // LOW-PWR-CMOS</text>
 
@@ -56,8 +116,11 @@
 
   <!-- corner batch marking -->
   <text x="205" y="195" font-family="JetBrains Mono, monospace" font-size="9" fill="#39ff88" opacity="0.7">S72</text>
-  <text x="660" y="195" font-family="JetBrains Mono, monospace" font-size="9" fill="#39ff88" opacity="0.7">R1.0</text>
+  <text x="655" y="195" font-family="JetBrains Mono, monospace" font-size="9" fill="#39ff88" opacity="0.7">R2.0</text>
 
-  <!-- tiny ground/logo mark -->
-  <circle cx="450" cy="45" r="3" fill="#39ff88" opacity="0.85"/>
+  <!-- blinking power / status LED -->
+  <circle cx="450" cy="45" r="3.4" fill="#39ff88">
+    <animate attributeName="fill" values="#39ff88;#ffb000;#39ff88" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3;4;3" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
 </svg>
